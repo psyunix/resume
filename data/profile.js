@@ -44,9 +44,9 @@ const profileData = {
   ],
   experiences: [
     {
-      organization: "SAS Institute",
+      organization: "SAS Institute | Cary, North Carolina (Honolulu, Hawaii office)",
       title: "Sr Systems Architect - Risk Research and Quantitative Solutions ",
-      date: "08/01/2022 - Present",
+      date: "August 2022 - Present",
       details: [
         `As part of the <strong>SAS Institute RQS</strong> team, worked on the development of core features like <strong>TDS summary & certificate</strong>, <strong>game join & re-join flow</strong> improvements,
         <strong>scorecard</strong>, <strong>withdrawal flow</strong>, <strong>user referral flow</strong>, and <strong>game bubble state</strong> optimizations.
@@ -59,18 +59,22 @@ const profileData = {
       ],
     },
     {
-      organization: "Flipkart Internet Pvt Ltd",
-      title: `UI Engineer 1`,
-      date: "Jun 2021 - Nov 2022",
+      organization: "Kamakura Corporation | Honolulu, Hawaii",
+      title: `Director of Enterprise Information Technology`,
+      date: "Jun 2019 - Aug 2022",
       details: [
-        `As part of the <strong>Pricing and Promotion Team</strong>, worked on the migration of legacy projects from <strong>AngularJS to React-Redux</strong>, implementing a new design. I developed a React-based UI component library and utilities, now utilized across multiple projects.`,
-        `Other responsibilities include implementing new features, as well as patching and resolving bugs in existing features, while also addressing on-call issues promptly.`,
+        `Primary responsibilities include troubleshooting, supporting internal application systems, and maintaining the day-to-day operation of the production and development network and server environment.`,
+        `Deployment, maintenance, and client technical support of the Kamakura Risk Manager (KRM) and Kamakura Risk Information Services (KRIS), Azure DevOps CI/CD for the KRM-WebUI software, including design and maintaining two Colocation data centers.`,
+        `Analyzed department and job-related functionality requirements to align technology priorities with business needs.`,
+        `Developed and implemented technical application support and information technology policies and procedures that advanced investment needs, outcomes, and performance measurements to balance continuous innovation with responsible risk-taking.`,
+        `Job-related used technologies: Microsoft platform including the M365 Cloud, SharePoint, AD/FTP/DNS, and PowerBI, Unix/Linux, Virtualization, Storage systems (SAN&NAS) Dell/IBM/TrueNAS, Nessus Security, Cloud Computing (AWS, Azure), Fortinet Cloud Security - IPsec/VPN, OKTA IAM, RSA, Secure Pulse, VMware, Veeam Cloud DR/BC, Nagios XI monitoring, ESET AV Cloud, Python, Bash, and PowerShell Scripting, MS SQL, Oracle, PostgreSQL, R, STATA, SVN, DevOps CI/CD, YAML and JSON, Atlassian Confluence collaboration tools and Jira Agile tools for software teams. PCI Compliance.`,
+        
       ],
     },
     {
-      organization: "Mobile Premier League",
-      title: `Software Development Engineer 1`,
-      date: "Apr 2020 - Jun 2021",
+      organization: "Superb Internet Corp | Honolulu, Hawaii",
+      title: `Senior System Engenieer`, 
+      date: "Nov 2016 - Jun 2019",
       details: [
         `Created feature-specific modules within the internal CRM to enhance team operations. Utilized <strong>ReactJS</strong> with <strong>SCSS</strong> and <strong>Redux</strong> for frontend development, alongside <strong>NodeJS-Express</strong> with protobuf for backend functionality.`,
         `Developed a tailored <strong>Content Management System (CMS) for MPL's website</strong>, enabling seamless content and image updates across various pages in real-time.`,
