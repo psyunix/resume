@@ -23,8 +23,8 @@ const profileData = {
       iconClass: "fa-brands fa-github",
     },
     {
-      title: "Codepen",
-      src: "https://codepen.io/imvpn22",
+      title: "Google Scholar",
+      src: "https://scholar.google.com/citations?user=WFVA_GYAAAAJ&hl=en&oi=ao",
       iconClass: "fa-brands fa-codepen",
     },
   ],
