@@ -14,7 +14,7 @@ const profileData = {
   links: [
     {
       title: "LinkedIn",
-      src: "https://www.linkedin.com/in/imvpn22",
+      src: "https://www.linkedin.com/in/stanislava-gardasevic/",
       iconClass: "fa-brands fa-linkedin-in",
     },
     {
