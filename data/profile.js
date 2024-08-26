@@ -1,13 +1,13 @@
 const profileData = {
   title: "Resume",
-  name: "Milan Cvetic",
-  sub_title: "Senior System Engineer",
+  name: "Stanislava (Stasha) Gardasevic, PhD",
+  sub_title: "Researcher and Metadata Specialist",
   logoURL: "assets/images/dp.jpg",
   about: {
-    intro: `Senior Software Engineer with 15 years of System experience. Expert in building high-performance UI and seamless UX. Experienced in leading projects, migrating legacy systems, and creating reusable components. Skilled in A/B testing, cross-platform compatibility, and responsive design. Effective mentor and collaborator dedicated to continuous learning and innovation.`,
+    intro: `I am a researcher with a mission to create information systems based on networked knowledge, intended to help people in data-driven decision making. My area is user-centered design and information science, with the focus on interdisciplinary collaboration support. My background is in library and archival metadata and interoperability, with expertise in digital library/archives`,
     contact: {
-      email: "psyunix@gmail.com",
-      phone: "+1 808 284 0781",
+      email: "gardasev@hawaii.edu",
+      phone: "+1 808 465 6814",
       address: "Honolulu, Hawaii",
     },
   },
