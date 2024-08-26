@@ -162,7 +162,7 @@ const profileData = {
     {
       desc: `<strong>VCTA-DCV 2021 - VMware Certified Technical Associate (VCTA) - Data Center Virtualization.</strong> by <strong>VMware</strong>.
       (<a target='_blank' rel='noreferrer' href='https://confirm.udacity.com/RLMHXAWZ'>https://goo.gl/RGRzVn</a>)`,
-      date: "May - Nov 2018",
+      date: "May - Aug 2021",
     },
     {
       desc: `<strong>Introduction to Modern Application Development</strong>, a MOOC by <em> NPTEL (IIT Madras)
