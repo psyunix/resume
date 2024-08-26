@@ -160,7 +160,7 @@ const profileData = {
   ],
   certifications: [
     {
-      desc: `<strong>Mobile Web Specialist Nanodegree</strong> by <strong>Udacity</strong>.
+      desc: `<strong>VCTA-DCV 2021 - VMware Certified Technical Associate (VCTA) - Data Center Virtualization.</strong> by <strong>VMware</strong>.
       (<a target='_blank' rel='noreferrer' href='https://confirm.udacity.com/RLMHXAWZ'>https://goo.gl/RGRzVn</a>)`,
       date: "May - Nov 2018",
     },
