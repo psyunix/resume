@@ -1,25 +1,25 @@
 const profileData = {
   title: "Resume",
-  name: "Stanislava (Stasha) Gardasevic, PhD",
-  sub_title: "Researcher and Metadata Specialist",
+  name: "Milan Cvetic",
+  sub_title: "Sr Systems Architect",
   logoURL: "assets/images/dp.jpg",
   about: {
-    intro: `I am a researcher with a mission to create information systems based on networked knowledge, intended to help people in data-driven decision making. My area is user-centered design and information science, with the focus on interdisciplinary collaboration support. My background is in library and archival metadata and interoperability, with expertise in digital library/archives`,
+    intro: `Insightful Information Technology Manager/Engineer with 15 years of IT leadership experience, including oversight of infrastructure, application support, and security services. Dedicated to customer satisfaction with focused delivery of technical solutions. Proven leader in directing operations, maintenance, and support of complex systems. Develops creative business solutions, leveraging diverse methodologies and delivering engineering solutions for leading organizations. Highly adept in requests for proposal development, technology needs assessments, and staff training.`,
     contact: {
-      email: "gardasev@hawaii.edu",
-      phone: "+1 808 465 6814",
+      email: "psyunix@gmail.com",
+      phone: "+1 808 284 0781",
       address: "Honolulu, Hawaii",
     },
   },
   links: [
     {
       title: "LinkedIn",
-      src: "https://www.linkedin.com/in/stanislava-gardasevic/",
+      src: "https://www.linkedin.com/in/milancvetic/",
       iconClass: "fa-brands fa-linkedin-in",
     },
     {
       title: "Github",
-      src: "https://github.com/imvpn22",
+      src: "https://github.com/psunix",
       iconClass: "fa-brands fa-github",
     },
     {
