@@ -30,16 +30,16 @@ const profileData = {
   ],
   skills: [
     {
-      title: "Languages",
-      value: "HTML5, CSS3, TypeScript, JavaScript",
+      title: "Software",
+      value: "Extensive experience working with following software: Omeka and Omeka S (Digital Library), Canvas (Learning Management System), Oxygen, VS Code, GitHub, Protégé (Ontology Management)",
     },
     {
-      title: "Frameworks/Libraries",
-      value: "ReactJS, React-Native, Redux, NodeJS-Express, NextJS, Angular",
+      title: "Databases",
+      value: "Proficient in graph database design, working with Neo4J and CYPHER queries; experience with SQL and relational databases.",
     },
     {
-      title: "Others",
-      value: "Git, Jenkins, AWS",
+      title: "Web Development",
+      value: "HTML, CSS, JavaScript; experience with WordPress and LibGuides (CMS).",
     },
   ],
   experiences: [
@@ -142,7 +142,7 @@ const profileData = {
   ],
   education: [
     {
-      alma: "FET, GKV, Haridwar",
+      alma: "University of Hawaiʻi at Mānoa (USA), Ph.D. Communication and Information Sciences (CIS) Interdisciplinary Program",
       duration: "2014 - 2018",
       std: "B.Tech. (Computer Science & Engineering)",
       score: "71.00%",
