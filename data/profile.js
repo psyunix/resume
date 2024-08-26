@@ -44,11 +44,11 @@ const profileData = {
   ],
   experiences: [
     {
-      organization: "Gameskraft",
-      title: "Senior Software Engineer",
-      date: "Dec 2022 - Present",
+      organization: "SAS Institute",
+      title: "Sr Systems Architect - Risk Research and Quantitative Solutions ",
+      date: "08/01/2022 - Present",
       details: [
-        `As part of the <strong>RummyCulture App</strong> team, worked on the development of core features like <strong>TDS summary & certificate</strong>, <strong>game join & re-join flow</strong> improvements,
+        `As part of the <strong>SAS Institute RQS</strong> team, worked on the development of core features like <strong>TDS summary & certificate</strong>, <strong>game join & re-join flow</strong> improvements,
         <strong>scorecard</strong>, <strong>withdrawal flow</strong>, <strong>user referral flow</strong>, and <strong>game bubble state</strong> optimizations.
         I ensured end-to-end responsibility, focusing on <strong>pixel-perfect UI</strong>, smooth UX, user testing, <strong>A/B experiments</strong>, cross-platform compatibility,
         and timely delivery.`,
