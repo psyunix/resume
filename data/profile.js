@@ -22,16 +22,11 @@ const profileData = {
       src: "https://github.com/psunix",
       iconClass: "fa-brands fa-github",
     },
-    {
-      title: "Google Scholar",
-      src: "https://scholar.google.com/citations?user=WFVA_GYAAAAJ&hl=en&oi=ao",
-      iconClass: "fa-brands fa-codepen",
-    },
   ],
   skills: [
     {
       title: "Software",
-      value: "Extensive experience working with following software: Omeka and Omeka S (Digital Library), Canvas (Learning Management System), Oxygen, VS Code, GitHub, Protégé (Ontology Management)",
+      value: "Extensive experience working with the following software: Omeka and Omeka S (Digital Library), Canvas (Learning Management System), Oxygen, VS Code, GitHub, Protégé (Ontology Management)",
     },
     {
       title: "Databases",
@@ -164,13 +159,7 @@ const profileData = {
       (<a target='_blank' rel='noreferrer' href='https://confirm.udacity.com/RLMHXAWZ'>https://goo.gl/RGRzVn</a>)`,
       date: "May - Aug 2021",
     },
-    {
-      desc: `<strong>Introduction to Modern Application Development</strong>, a MOOC by <em> NPTEL (IIT Madras)
-      and Hasura</em>. Ranked at <strong> top 10 percentile </strong> among more than 2500 candidates.
-       (<a target='_blank' rel='noreferrer' href='https://nptel.ac.in/noc/E_Certificate/linkedin/noc17-cs06/NPTEL17CS0626270067AN.jpg'>
-       https://goo.gl/X3HEdR</a>)`,
-      date: "Jan - Mar 2017",
-    },
+
   ],
   events: [],
 };
