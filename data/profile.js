@@ -1,14 +1,14 @@
 const profileData = {
   title: "Resume",
   name: "Milan Cvetic",
-  sub_title: "Senior Software Engineer",
+  sub_title: "Senior System Engineer",
   logoURL: "assets/images/dp.jpg",
   about: {
     intro: `Senior Software Engineer with 6 years of frontend development experience. Expert in building high-performance UI and seamless UX. Experienced in leading projects, migrating legacy systems, and creating reusable components. Skilled in A/B testing, cross-platform compatibility, and responsive design. Effective mentor and collaborator dedicated to continuous learning and innovation.`,
     contact: {
-      email: "imvpn22@gmail.com",
-      phone: "+91-9919716378",
-      address: "Bangalore, IN",
+      email: "psyunix@gmail.com",
+      phone: "+1 808 two84 zero 781",
+      address: "Honolulu, Hawaii, USA",
     },
   },
   links: [
