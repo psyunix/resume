@@ -1,6 +1,6 @@
 const profileData = {
   title: "Resume",
-  name: "Milan Cvetic",
+  name: "Luka Cvetic",
   sub_title: "Senior System Engineer",
   logoURL: "assets/images/dp.jpg",
   about: {
