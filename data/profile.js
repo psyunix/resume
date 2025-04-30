@@ -92,7 +92,6 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
     {
       organization: "National Library of Serbia | Belgrade, Serbia",
       title: `Head of IT Department - System Engineer`,
-      desc: `Project Engineer`,
       date: "Aug 2009 - Apr 2016",
       details: [
         `•	Leading System Engineer coordinating a team (development and IT support) responsible for smooth computer services of the National Library, with more than 250 employees and around 1.000 visitors daily
@@ -110,15 +109,22 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
       ],
     },
     {
-      organization: "Venuemonk",
-      title: "Full-Stack Developer Intern",
-      desc: `<strong>Full-Stack Developer intern</strong> at  <a target='_blank' rel='noreferrer' href='https://www.venuemonk.com/'>
-      <strong> Venuemonk </strong> </a> (<a target='_blank' rel='noreferrer' href='https://drive.google.com/open?id=1ch_9x9jCp_TJwKY43FG-pCr_zV9H2iun'> https://goo.gl/Uz1gaf</a>)`,
-      date: "Jan 2018 - Apr 2018",
+      organization: "Automobile Association of Serbia and AMS Insurance Corp | Belgrade, Serbia ",
+      title: "Senior System Engineer",
+      date: " Jan 2013 - Dec 2016 ",
       details: [
-        `Designed and developed a <strong>Venue Onboarding platform</strong> to streamline and automate
-        the onboarding process of partner venues using <strong>React.js-Redux</strong> frontend and
-        <strong>Node.js-Express, MongoDB</strong> backend.`,
+        `•	Planned, installed, configured, and tested network appliances for mass storage, backup, disaster recovery, and OS security and maintenance
+•	Resolved issues and escalated problems with knowledgeable support and quality service.
+•	Proposed technical feasibility solutions for new system designs and suggested options for performance improvement of technical components.
+•	Installation and maintenance of business applications for vehicle insurance across Serbia - border crossings, automobile base stations, and police stations based on the FreeBSD UNIX system and Microsoft infrastructure.
+•	Redesigned and built a new IT infrastructure, including Virtualization, DNS, DHCP, LDAP, Server Deployment Automation, User Services, Web Services, Load Balancing, Network Switching, Network Storage, Enterprise Backups, and VOIP.
+•	Architected, implemented, and managed a multi-site VMware Server Infrastructure with multi-tenancy.
+•	Physical to virtual (P2V) server migrations (Linux/Unix, Solaris, Windows), identified IT requirements for an office relocation to triple personnel headcount.
+•	Designed Datacenter on-premises with power and cooling for server and communications equipment and workbenches for monitoring and diagnostics.
+•	Designed, installed, and maintain the in-house data center, Disaster Recovery solution based on SAN/NAS EMC RecoverPoint (Dell - VMware cluster system - EMC VNXe storage) servers and applications
+•	Provide technical expertise on the design, implementation, and troubleshooting of enterprise production systems. Familiarity with Microsoft security tools and procedures - Expertise with AD Management, administration, and optimization
+•	Job-related technologies: Cisco/Fortinet networking and security, ESET, Nagios, VMware/Veeam, Relational SQL databases (MS SQL, Oracle, PostgreSQL, MySQL), Unix/Linux, Microsoft technologies (Active Directory, FTP, Proxy, PowerShell), DevOps tools. 
+`,
       ],
     },
     {
