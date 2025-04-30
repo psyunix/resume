@@ -200,9 +200,10 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
   ],
   education: [
     {
-      alma: "ICT - College for Expert Studies in Information, https://en.ict.edu.rs/",
+      alma: "ICT - College for Expert Studies in Information",
       duration: "2009 - 2011",
-      std: "Professional Master, Specialist - Expert Engineer | Network Technologies and Security",
+      std: "Professional Master, Specialist - Expert Engineer of Network Technologies",
+      link: "https://eng.ict.edu.rs/",
       score: "83.00%",
     },
     {
