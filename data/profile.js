@@ -204,14 +204,12 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
       duration: "2009 - 2011",
       std: "Professional Master, Specialist - Expert Engineer | Network Technologies and Security",
       score: "83.00%",
-      link: "https://github.com/imvpn22/whiteboard",
     },
     {
       alma: "ITS - Information Technology School - College for Expert Studies of IT,https://eng.its.edu.rs/",
       duration: "2006 - 2009",
       std: "Bachelor's degree, Engineer of Information | Information Technologies",
       score: "95.80%",
-      link: "https://github.com/imvpn22/whiteboard",
     },
   ],
   certifications: [
@@ -222,7 +220,7 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
 
     {
       desc: `<strong>VMware VCTA DataCenter</strong>, a  by <em>VMware</em>.
-       (<a target='_blank' rel='noreferrer' href='https://nptel.ac.in/noc/E_Certificate/linkedin/noc17-cs06/NPTEL17CS0626270067AN.jpg'>https://goo.gl/X3HEdR</a>)`,
+       (<a target='_blank' rel='noreferrer' href='https://github.com/psyunix/resume/blob/main/data/AZ-104-milan_cvetic_udemy.pdf'>VMware VCTA - DCV</a>)`,
       date: "2021",
     },
   ],
