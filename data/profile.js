@@ -104,8 +104,7 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
 •	Maintained digital libraries www.velikirat.nb.rs/en and www.digitalna.nb.rs
 •	Project manager for the design and implementation of the in-house data center, based on VMware (VMware PCoverIP VDI cluster, IBM blade system, and IBM N SAN/NAS storage with 140 zero clients), server cluster (HP blade C7000 with NetApp storage FAS2420), Cisco networking and security
 •	Install, maintain and support OPAC Library application based on HP True UNIX across the Library Network in Serbia
-•	Manage one or more technologies: Microsoft technologies (Active Directory, PowerShell), Relational SQL databases (MS SQL, Oracle, PostgreSQL, MySQL), Kaspersky and ESET AV, Nagios, Bash/Python scripting, VMware, Veeam, Linux/Unix, Cisco/Fortinet Networking and security, Nessus security. 
-`,
+•	Manage one or more technologies: Microsoft technologies (Active Directory, PowerShell), Relational SQL databases (MS SQL, Oracle, PostgreSQL, MySQL), Kaspersky and ESET AV, Nagios, Bash/Python scripting, VMware, Veeam, Linux/Unix, Cisco/Fortinet Networking and security, Nessus security. `,
       ],
     },
     {
@@ -123,8 +122,7 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
 •	Designed Datacenter on-premises with power and cooling for server and communications equipment and workbenches for monitoring and diagnostics.
 •	Designed, installed, and maintain the in-house data center, Disaster Recovery solution based on SAN/NAS EMC RecoverPoint (Dell - VMware cluster system - EMC VNXe storage) servers and applications
 •	Provide technical expertise on the design, implementation, and troubleshooting of enterprise production systems. Familiarity with Microsoft security tools and procedures - Expertise with AD Management, administration, and optimization
-•	Job-related technologies: Cisco/Fortinet networking and security, ESET, Nagios, VMware/Veeam, Relational SQL databases (MS SQL, Oracle, PostgreSQL, MySQL), Unix/Linux, Microsoft technologies (Active Directory, FTP, Proxy, PowerShell), DevOps tools. 
-`,
+•	Job-related technologies: Cisco/Fortinet networking and security, ESET, Nagios, VMware/Veeam, Relational SQL databases (MS SQL, Oracle, PostgreSQL, MySQL), Unix/Linux, Microsoft technologies (Active Directory, FTP, Proxy, PowerShell), DevOps tools. `,
       ],
     },
     {
@@ -140,8 +138,7 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
 •	Delivered engaging curriculum through diverse methods of classroom instruction, computer lab activities, and online learning systems.
 •	Used various learning modalities and support materials to facilitate learning and accentuate presentations.
 •	Worked with Red Hat/Debian-based Linux distribution, particularly installation, configuration, user rights, services, file system, and recovery.
-•	In charge of course design, communications with students, and grading.
-`,
+•	In charge of course design, communications with students, and grading.`,
       ],
     },
 
