@@ -40,11 +40,11 @@ const profileData = {
     },
     {
       title: "Operating Systems",
-      value: "Windows, Linux (RHEL, CentOS, Debian, Ubuntu), FreeBSD, Solaris",
+      value: "macOS, Windows, Linux (RHEL, CentOS, Debian, Ubuntu), FreeBSD, Solaris",
     },
     {
       title: "Virtualization",
-      value: "VMware (vSphere, vCenter), OpenShift, Docker, KVM",
+      value: "VMware, OpenShift, Docker, KVM",
     },
     {
       title: "Networking",
@@ -191,15 +191,14 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
       title: "Resume app",
       duration: "Apr - May 2025",
       link: "https://github.com/psyunix/resume",
-      desc: `A resume web app build with Vercel CI/CD and GitHub.
-      The app includes full history of positions and dutties.
-      Developed using <strong>HTML5</strong>, <strong>CSS3</strong> and <strong>JavaScript</strong>.`,
+      desc: `The kube-3-kind project by psyunix is a configuration designed to deploy a multi-node Kubernetes cluster using kind (Kubernetes IN Docker). 
+      This setup is particularly useful for local development, testing, and CI/CD pipelines where simulating a production-like environment is beneficial. `,
     },
 
     {
-      title: "WhiteBoard",
-      duration: "Jun - Aug 2017",
-      link: "https://github.com/imvpn22/whiteboard",
+      title: "Kubernets 3 kind clusters",
+      duration: "Jan - Aug 2025",
+      link: "https://github.com/psyunix/kube-3-kind",
       desc: `A simple <strong>web-app for collaborative brainstorming sessions</strong>.
       The app includes a real-time messaging and sketching platform for collaboration with Peers.
       It also has features to create groups(teams) and add/remove members.
