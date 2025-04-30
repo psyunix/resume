@@ -144,6 +144,42 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
 `,
       ],
     },
+
+    {
+      organization: "IT Academy | Belgrade, Serbia ",
+      title: "Computer Science Instructor",
+      desc: `<strong>Product development intern</strong> at <a target='_blank' rel='noreferrer' href='https://hasura.io/'>
+      <strong> Hasura </strong> </a> (<a target='_blank' rel='noreferrer' href='https://goo.gl/8V3jBy'> https://goo.gl/8V3jBy</a>)`,
+      date: " Nov 2008 - May 2010 ",
+      details: [
+        `•	Lecturer and course instructor of the Linux Module - intermediate level, for 60 students divided into three groups
+•	Assessed, documented and reported student progress in Linux computer class.
+•	Evaluated and revised lesson plans and course content to achieve student-centered learning.
+•	Delivered engaging curriculum through diverse methods of classroom instruction, computer lab activities, and online learning systems.
+•	Used various learning modalities and support materials to facilitate learning and accentuate presentations.
+•	Worked with Red Hat/Debian-based Linux distribution, particularly installation, configuration, user rights, services, file system, and recovery.
+•	In charge of course design, communications with students, and grading.
+`,
+      ],
+    },
+
+    {
+      organization: "IT Academy | Belgrade, Serbia ",
+      title: "Computer Science Instructor",
+      desc: `<strong>Product development intern</strong> at <a target='_blank' rel='noreferrer' href='https://hasura.io/'>
+      <strong> Hasura </strong> </a> (<a target='_blank' rel='noreferrer' href='https://goo.gl/8V3jBy'> https://goo.gl/8V3jBy</a>)`,
+      date: " Nov 2008 - May 2010 ",
+      details: [
+        `•	Lecturer and course instructor of the Linux Module - intermediate level, for 60 students divided into three groups
+•	Assessed, documented and reported student progress in Linux computer class.
+•	Evaluated and revised lesson plans and course content to achieve student-centered learning.
+•	Delivered engaging curriculum through diverse methods of classroom instruction, computer lab activities, and online learning systems.
+•	Used various learning modalities and support materials to facilitate learning and accentuate presentations.
+•	Worked with Red Hat/Debian-based Linux distribution, particularly installation, configuration, user rights, services, file system, and recovery.
+•	In charge of course design, communications with students, and grading.
+`,
+      ],
+    },
   ],
   projects: [
     {
