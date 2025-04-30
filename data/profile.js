@@ -191,19 +191,17 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
       title: "Resume app",
       duration: "Apr - May 2025",
       link: "https://github.com/psyunix/resume",
-      desc: `The kube-3-kind project by psyunix is a configuration designed to deploy a multi-node Kubernetes cluster using kind (Kubernetes IN Docker). 
-      This setup is particularly useful for local development, testing, and CI/CD pipelines where simulating a production-like environment is beneficial. `,
+      desc: `A resume web app build with Vercel CI/CD and GitHub.
+      The app includes full history of positions and dutties.
+      Developed using <strong>HTML5</strong>, <strong>CSS3</strong> and <strong>JavaScript</strong>.`,
     },
 
     {
       title: "Kubernets 3 kind clusters",
       duration: "Jan - Aug 2025",
       link: "https://github.com/psyunix/kube-3-kind",
-      desc: `A simple <strong>web-app for collaborative brainstorming sessions</strong>.
-      The app includes a real-time messaging and sketching platform for collaboration with Peers.
-      It also has features to create groups(teams) and add/remove members.
-      Developed using <strong>Node.js-Express</strong> with server-side-templating (EJS),
-      <strong>CSS</strong>, <strong>JavaScript</strong> and <strong>Socket.io</strong>.`,
+      desc: `The kube-3-kind project by psyunix is a configuration designed to deploy a multi-node Kubernetes cluster using kind (Kubernetes IN Docker). 
+      This setup is particularly useful for local development, testing, and CI/CD pipelines where simulating a production-like environment is beneficial. .`,
     },
   ],
   education: [
