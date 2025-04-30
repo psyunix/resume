@@ -90,17 +90,23 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
       ],
     },
     {
-      organization: "National Library of Serbia",
+      organization: "National Library of Serbia | Belgrade, Serbia",
       title: `Head of IT Department - System Engineer`,
       desc: `Project Engineer`,
       date: "Aug 2009 - Apr 2016",
       details: [
-        `Contributed to the development of a <strong>collaborative online
-        blueprint editor</strong> by translating the design mockups into reusable UI components
-        with industry-standard UX patterns using <strong>Angular</strong> with <strong>SCSS</strong>,
-        <strong>NgRx</strong> and <strong>Angular-Material</strong> and adding actions to those by
-        creating services to integrate backend REST-APIs.`,
-        `Resolved UI/UX issues by refactoring React components and re-structuring CSS/SCSS of an internal project with the codebase of ReactJS-Redux.`,
+        `•	Leading System Engineer coordinating a team (development and IT support) responsible for smooth computer services of the National Library, with more than 250 employees and around 1.000 visitors daily
+•	Guided organizational technology strategy and roadmaps.
+•	Coordinated IT operations activities to deliver a smooth flow of daily business needs.
+•	Coordinated technical training and personal development classes for staff members.
+•	Led technology selection and rollout, focusing on organizational planning and supplier service-level agreements.
+•	Adjusted project plans to account for dynamic targets, staffing changes, and operational specifications.
+•	A co-coordinating project established the infrastructure for joint library services, National Web Archiving, and National metadata aggregator for Europeana (European Digital Library), Serbian Library Consortium for Coordinated Acquisition (KoBSON - www.kobson.nb.rs), and development and maintenance of the portal for scientific publications
+•	Maintained digital libraries www.velikirat.nb.rs/en and www.digitalna.nb.rs
+•	Project manager for the design and implementation of the in-house data center, based on VMware (VMware PCoverIP VDI cluster, IBM blade system, and IBM N SAN/NAS storage with 140 zero clients), server cluster (HP blade C7000 with NetApp storage FAS2420), Cisco networking and security
+•	Install, maintain and support OPAC Library application based on HP True UNIX across the Library Network in Serbia
+•	Manage one or more technologies: Microsoft technologies (Active Directory, PowerShell), Relational SQL databases (MS SQL, Oracle, PostgreSQL, MySQL), Kaspersky and ESET AV, Nagios, Bash/Python scripting, VMware, Veeam, Linux/Unix, Cisco/Fortinet Networking and security, Nessus security. 
+`,
       ],
     },
     {
