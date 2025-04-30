@@ -45,17 +45,19 @@ const profileData = {
   experiences: [
     {
       organization: "SAS Institute",
-      title: "Senior System Arhitect",
-      date: "Jul 2022 - Present",
+      title: "Sr Systems Architect - Risk Research and Quantitative Solutions ",
+      date: "Jul 2022 - May 2025",
       details: [
-        `As part of the <strong>RummyCulture App</strong> team, worked on the development of core features like <strong>TDS summary & certificate</strong>, <strong>game join & re-join flow</strong> improvements,
-        <strong>scorecard</strong>, <strong>withdrawal flow</strong>, <strong>user referral flow</strong>, and <strong>game bubble state</strong> optimizations.
-        I ensured end-to-end responsibility, focusing on <strong>pixel-perfect UI</strong>, smooth UX, user testing, <strong>A/B experiments</strong>, cross-platform compatibility,
-        and timely delivery.`,
-        `Implemented the <strong>FT/UX</strong> (First Time User Experience) flow, boosting day1 metrics of Registration to Add Cash and Registration to Cash Game by around <strong>5%</strong>.`,
-        `Integrated in-house <strong>help center SDK</strong>, offering self-help features like guided app core flows and callback scheduling for users, leading to a <strong>reduction in customer call volume</strong>.`,
-        `Initiated the standardization of a React-Native <strong>custom UI library</strong>, encompassing reusable components, utilities, higher-order components, hooks, and animations for versatile project needs.`,
-        `Addressed live issues such as App crashes, JS crashes, and ANRs using <strong>Sentry</strong> and <strong>Firebase Crashlytics</strong>. Mentored juniors through knowledge-sharing and code-review sessions to ensure bug-free code and optimal performance.`,
+        `AMain tasks involve troubleshooting, supporting internal application systems, keeping the production and development network and server environment running smoothly on a day-to-day basis using: SAS Viya, VMware, Azure, AWS, GCP, OpenShift, DevOps CI/CD (Docker, Kubernetes, Git, Terraform)
+Led the architecture, deployment, and maintenance of SAS Viya environments across Azure, AWS, and GCP, ensuring high availability, security, and performance optimization.
+•	 Oversee VMware strategies to maintain efficient resource allocation and system scalability for production and development environments.
+• 	Drive DevOps and CI/CD automation using Docker, Kubernetes, Git, Terraform,  Grafana and Prometheus, streamlining infrastructure provisioning, application deployment, and system monitoring.
+•	 Troubleshoot and resolve complex system issues, minimizing downtime and ensuring seamless performance for risk research and quantitative solutions.
+• 	Implement cloud security best practices, identity and access management (IAM), encryption, and compliance frameworks to align with enterprise security policies.
+•	 Optimize network configurations and server environments for on-premises and cloud-based infrastructures, ensuring seamless hybrid cloud integration.
+•	 Collaborate with development and data science teams to provide scalable, secure, and efficient computing environments for risk modeling and advanced analytics.
+•	 Continuously evaluate and integrate emerging cloud and DevOps technologies to enhance system reliability, cost efficiency, and operational resilience.
+`,
       ],
     },
     {
