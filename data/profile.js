@@ -44,7 +44,7 @@ const profileData = {
   ],
   experiences: [
     {
-      organization: "SAS Institute",
+      organization: "SAS Institute | Cary, North Carolina USA",
       title: "Sr Systems Architect - Risk Research and Quantitative Solutions ",
       date: "Jul 2022 - May 2025",
       details: [
@@ -61,9 +61,9 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
       ],
     },
     {
-      organization: "Kamakura Corporation",
+      organization: "Kamakura Corporation | Honolulu, Hawaii USA",
       title: `Director of Information Technology (CTO)`,
-      date: "Jun 2021 - Nov 2022",
+      date: "Jun 2019 - Jul 2022",
       details: [
         `•	Primary responsibilities include troubleshooting, supporting internal application systems, and maintaining the day-to-day operation of the production and development network and server environment.
 •	Deployment, maintenance, and client technical support of the Kamakura Risk Manager (KRM) and Kamakura Risk Information Services (KRIS), Azure DevOps CI/CD for the KRM-WebUI software, including design and maintaining two Colocation data centers.
@@ -74,12 +74,19 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
       ],
     },
     {
-      organization: "Superb Internet Corporation",
+      organization: "Superb Internet Corp | Honolulu, Hawaii USA",
       title: `Senior System Engineer`,
       date: " Oct 2016 - Jun 2021",
       details: [
-        `Created feature-specific modules within the internal CRM to enhance team operations. Utilized <strong>ReactJS</strong> with <strong>SCSS</strong> and <strong>Redux</strong> for frontend development, alongside <strong>NodeJS-Express</strong> with protobuf for backend functionality.`,
-        `Developed a tailored <strong>Content Management System (CMS) for MPL's website</strong>, enabling seamless content and image updates across various pages in real-time.`,
+        `•	Design and maintenance of three data centers across the USA
+•	Primary responsibilities include troubleshooting T 3/4 level support, internal application systems, and maintaining the day-to-day operation of the production and development network and server environment based on UNIX/Linux.
+•	Identified software issues and handled troubleshooting to resolve them quickly.
+•	Analyzed security logs to determine and alleviate network threats.
+•	Managing and maintaining all production and development of corporate systems, VMware Infrastructure, and disaster recovery
+•	Building (rebuilding), staging, and deploying servers for test, development, and production environments
+•	Documenting issues clearly and effectively for reference and reporting.
+•	Job-related used technologies: OnApp (RedHat/KVM) – Enterprise Cloud, VMware cloud, AWS, Azure, Cisco/Fortinet IPsec/VPN, Tomcat, GlusterFS, HAproxy LB, LDAP, Squid Proxy, Unix/Linux, Microsoft platform Office 365 and AD, DNS, GPO, SSO, SAN/NAS (Netapp, FreeNAS), MySQL, MS SQL, PostgreSQL, ORACLE DB Clusters. Ansible, Jira, and Nessus security for ISO audit and PCI compliance.
+`,
       ],
     },
     {
