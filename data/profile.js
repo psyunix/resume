@@ -31,16 +31,7 @@ const profileData = {
   skills: [
     {
       title: "Languages",
-      value: "•	Continuous Deployment & Continuous Integration (DevOps CI/CD), Information Technology Infrastructure,Advanced Computer Software and Hardware Knowledge, Enterprise Business technology and software implementation, Cybersecurity and Data Privacy , Programming and Scripting Languages (Python, Bash, PowerShell)
-, Project Management and Agile Development
-, Database Administration and Data Synchronization	•	Cloud Management and Cloud Strategy
-, Technical Writing, Debugging, Troubleshooting, and Support
-, Quality Assurance and Risk Identification
-, Project Leadership and Communications Strategies
-, Best Practices and Methodologies
-, Disaster Recovery Operations
-, Business Intelligence Data Modeling
-, Attention to Detail, Problem Solving, Communication, Leadership, Management, Multitasking, Customer service, Teamwork, Organization, Patience, Decision Making, Working under pressure, Time Management, Analytical Skills, and Creativity.
+      value: "	Continuous Deployment & Continuous Integration (DevOps CI/CD), Information Technology Infrastructure,Advanced Computer Software and Hardware Knowledge, Enterprise Business technology and software implementation, Cybersecurity and Data Privacy , Programming and Scripting Languages (Python, Bash, PowerShell)
 ",
     },
     {
