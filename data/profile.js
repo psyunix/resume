@@ -200,16 +200,18 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
   ],
   education: [
     {
-      alma: "ICT - College for Expert Studies in Information, Belgrade, Serbia https://en.ict.edu.rs/",
+      alma: "ICT - College for Expert Studies in Information, https://en.ict.edu.rs/",
       duration: "2009 - 2011",
       std: "Professional Master, Specialist - Expert Engineer | Network Technologies and Security",
       score: "83.00%",
+      link: "https://github.com/imvpn22/whiteboard",
     },
     {
-      alma: "ITS - Information Technology School - College for Expert Studies of IT, Belgrade, Serbia https://eng.its.edu.rs/",
+      alma: "ITS - Information Technology School - College for Expert Studies of IT,https://eng.its.edu.rs/",
       duration: "2006 - 2009",
       std: "Bachelor's degree, Engineer of Information | Information Technologies",
       score: "95.80%",
+      link: "https://github.com/imvpn22/whiteboard",
     },
   ],
   certifications: [
@@ -223,6 +225,7 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
        (<a target='_blank' rel='noreferrer' href='https://nptel.ac.in/noc/E_Certificate/linkedin/noc17-cs06/NPTEL17CS0626270067AN.jpg'>
        https://goo.gl/X3HEdR</a>)`,
       date: "2021",
+      link: "https://github.com/imvpn22/whiteboard",
     },
   ],
   events: [],
