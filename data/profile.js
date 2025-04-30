@@ -39,7 +39,7 @@ const profileData = {
     },
     {
       title: "Others",
-      value: "Git, Jenkins, AWS",
+      value: "macOS, Unix/Linux, Microsoft (10+ years), Backup and Data management (10+ years), VMware and Cloud technologies (10+ years), Security (10+ years), Monitoring systems (10+ years), Network (10+ years), Python/Perl/Bash/PowerShell scripting (10+ years), DevOps (5+ years)",
     },
   ],
   experiences: [
@@ -200,13 +200,13 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
   ],
   education: [
     {
-      alma: "FET, GKV, Haridwar",
+      alma: "ICT - College for Expert Studies in Information, Belgrade, Serbia https://en.ict.edu.rs/",
       duration: "2014 - 2018",
       std: "B.Tech. (Computer Science & Engineering)",
       score: "71.00%",
     },
     {
-      alma: "Jwala Devi SVMIC, Prayagraj",
+      alma: "ITS - Information Technology School - College for Expert Studies of IT, Belgrade, Serbia https://www.its.edu.rs",
       duration: "2011 - 2013",
       std: "Class XI-XII (PCM)",
       score: "89.80%",
