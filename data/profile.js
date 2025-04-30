@@ -48,7 +48,7 @@ const profileData = {
       title: "Sr Systems Architect - Risk Research and Quantitative Solutions ",
       date: "Jul 2022 - May 2025",
       details: [
-        `AMain tasks involve troubleshooting, supporting internal application systems, keeping the production and development network and server environment running smoothly on a day-to-day basis using: SAS Viya, VMware, Azure, AWS, GCP, OpenShift, DevOps CI/CD (Docker, Kubernetes, Git, Terraform)
+        `Main tasks involve troubleshooting, supporting internal application systems, keeping the production and development network and server environment running smoothly on a day-to-day basis using: SAS Viya, VMware, Azure, AWS, GCP, OpenShift, DevOps CI/CD (Docker, Kubernetes, Git, Terraform)
 Led the architecture, deployment, and maintenance of SAS Viya environments across Azure, AWS, and GCP, ensuring high availability, security, and performance optimization.
 •	 Oversee VMware strategies to maintain efficient resource allocation and system scalability for production and development environments.
 • 	Drive DevOps and CI/CD automation using Docker, Kubernetes, Git, Terraform,  Grafana and Prometheus, streamlining infrastructure provisioning, application deployment, and system monitoring.
@@ -65,8 +65,12 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
       title: `Director of Information Technology (CTO)`,
       date: "Jun 2021 - Nov 2022",
       details: [
-        `As part of the <strong>Pricing and Promotion Team</strong>, worked on the migration of legacy projects from <strong>AngularJS to React-Redux</strong>, implementing a new design. I developed a React-based UI component library and utilities, now utilized across multiple projects.`,
-        `Other responsibilities include implementing new features, as well as patching and resolving bugs in existing features, while also addressing on-call issues promptly.`,
+        `•	Primary responsibilities include troubleshooting, supporting internal application systems, and maintaining the day-to-day operation of the production and development network and server environment.
+•	Deployment, maintenance, and client technical support of the Kamakura Risk Manager (KRM) and Kamakura Risk Information Services (KRIS), Azure DevOps CI/CD for the KRM-WebUI software, including design and maintaining two Colocation data centers.
+•	Analyzed department and job-related functionality requirements to align technology priorities with business needs.
+•	Developed and implemented technical application support and information technology policies and procedures that advanced investment needs, outcomes, and performance measurements to balance continuous innovation with responsible risk-taking.
+•	Job-related used technologies: Microsoft platform including the M365 Cloud, SharePoint, AD/FTP/DNS, and PowerBI, Unix/Linux, Virtualization, Storage systems (SAN&NAS) Dell/IBM/TrueNAS, Nessus Security, Cloud Computing (AWS, Azure), Fortinet Cloud Security - IPsec/VPN, OKTA IAM, RSA, Secure Pulse, VMware, Veeam Cloud DR/BC, Nagios XI monitoring, ESET AV Cloud, Python, Bash, and PowerShell Scripting, MS SQL, Oracle, PostgreSQL, R, STATA, SVN, DevOps CI/CD, YAML and JSON, Atlassian Confluence collaboration tools and Jira Agile tools for software teams. PCI Compliance. 
+`,
       ],
     },
     {
