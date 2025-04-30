@@ -216,11 +216,16 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
     {
       desc: `<strong>AZ-104 Microsoft Azure Administrator</strong> by <strong>Udemy</strong> (<a target='_blank' rel='noreferrer' href='https://www.udemy.com/certificate/UC-d6b1b188-ea79-4eb8-bc42-9e3517196abc'>AZ 104</a>)`,
       date: "2022",
+    }, 
+
+    {
+      desc: `<strong>RHCSA</strong> by <strong>Udemy</strong> (<a target='_blank' rel='noreferrer' href='https://github.com/psyunix/resume/blob/main/data/certs/RHCSA-milan_cvetic_udemy.pdf'>RHCSA</a>)`,
+      date: "2022",
     },
 
     {
       desc: `<strong>VMware VCTA DataCenter</strong>, a  by <em>VMware</em>.
-       (<a target='_blank' rel='noreferrer' href='https://github.com/psyunix/resume/blob/main/data/certs/AZ-104-milan_cvetic_udemy.pdf'>VMware VCTA - DCV</a>)`,
+       (<a target='_blank' rel='noreferrer' href='https://github.com/psyunix/resume/blob/main/data/certs/mcvetic_VCTA_DCV_2021.pdf'>VMware VCTA - DCV</a>)`,
       date: "2021",
     },
   ],
