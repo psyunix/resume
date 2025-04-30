@@ -14,17 +14,17 @@ const profileData = {
   links: [
     {
       title: "LinkedIn",
-      src: "https://www.linkedin.com/in/imvpn22",
+      src: "https://www.linkedin.com/in/milancvetic/",
       iconClass: "fa-brands fa-linkedin-in",
     },
     {
       title: "Github",
-      src: "https://github.com/imvpn22",
+      src: "https://github.com/psyunix",
       iconClass: "fa-brands fa-github",
     },
     {
-      title: "Codepen",
-      src: "https://codepen.io/imvpn22",
+      title: "Website",
+      src: "https://psyunic.com",
       iconClass: "fa-brands fa-codepen",
     },
   ],
@@ -44,9 +44,9 @@ const profileData = {
   ],
   experiences: [
     {
-      organization: "Gameskraft",
-      title: "Senior Software Engineer",
-      date: "Dec 2022 - Present",
+      organization: "SAS Institute",
+      title: "Senior System Arhitect",
+      date: "Jul 2022 - Present",
       details: [
         `As part of the <strong>RummyCulture App</strong> team, worked on the development of core features like <strong>TDS summary & certificate</strong>, <strong>game join & re-join flow</strong> improvements,
         <strong>scorecard</strong>, <strong>withdrawal flow</strong>, <strong>user referral flow</strong>, and <strong>game bubble state</strong> optimizations.
@@ -59,8 +59,8 @@ const profileData = {
       ],
     },
     {
-      organization: "Flipkart Internet Pvt Ltd",
-      title: `UI Engineer 1`,
+      organization: "Kamakura Corporation",
+      title: `Director of Information Technology (CTO)`,
       date: "Jun 2021 - Nov 2022",
       details: [
         `As part of the <strong>Pricing and Promotion Team</strong>, worked on the migration of legacy projects from <strong>AngularJS to React-Redux</strong>, implementing a new design. I developed a React-based UI component library and utilities, now utilized across multiple projects.`,
@@ -68,19 +68,19 @@ const profileData = {
       ],
     },
     {
-      organization: "Mobile Premier League",
-      title: `Software Development Engineer 1`,
-      date: "Apr 2020 - Jun 2021",
+      organization: "Superb Internet Corporation",
+      title: `Senior System Engineer`,
+      date: " Oct 2016 - Jun 2021",
       details: [
         `Created feature-specific modules within the internal CRM to enhance team operations. Utilized <strong>ReactJS</strong> with <strong>SCSS</strong> and <strong>Redux</strong> for frontend development, alongside <strong>NodeJS-Express</strong> with protobuf for backend functionality.`,
         `Developed a tailored <strong>Content Management System (CMS) for MPL's website</strong>, enabling seamless content and image updates across various pages in real-time.`,
       ],
     },
     {
-      organization: "Wipro",
-      title: `Project Engineer`,
+      organization: "National Library of Serbia",
+      title: `Head of IT Department - System Engineer`,
       desc: `Project Engineer`,
-      date: "Aug 2018 - Apr 2020",
+      date: "Aug 2009 - Apr 2016",
       details: [
         `Contributed to the development of a <strong>collaborative online
         blueprint editor</strong> by translating the design mockups into reusable UI components
