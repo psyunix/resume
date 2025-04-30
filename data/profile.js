@@ -201,13 +201,13 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
   education: [
     {
       alma: "ICT - College for Expert Studies in Information, Belgrade, Serbia https://en.ict.edu.rs/",
-      duration: "2014 - 2018",
+      duration: "2009 - 2011",
       std: "Professional Master, Specialist - Expert Engineer | Network Technologies and Security",
       score: "83.00%",
     },
     {
       alma: "ITS - Information Technology School - College for Expert Studies of IT, Belgrade, Serbia https://eng.its.edu.rs/",
-      duration: "10/2009 - 10/2011",
+      duration: "2006 - 2009",
       std: "Bachelor's degree, Engineer of Information | Information Technologies",
       score: "95.80%",
     },
