@@ -214,9 +214,9 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
   ],
   certifications: [
     {
-      desc: `<strong>AZ-104 Microsoft Azure Administrator</strong> by <strong>Udemy</strong>.
-      (<a target='_blank' rel='noreferrer' href='https://www.udemy.com/certificate/UC-d6b1b188-ea79-4eb8-bc42-9e3517196abc/'>https://www.udemy.com/certificate/UC-d6b1b188-ea79-4eb8-bc42-9e3517196abc/</a>)`,
+      desc: `<strong>AZ-104 Microsoft Azure Administrator</strong> by <strong>Udemy</strong>`,
       date: "2022",
+      link: "https://www.udemy.com/certificate/UC-d6b1b188-ea79-4eb8-bc42-9e3517196abc/",
     },
     {
       desc: `<strong>VMware VCTA DataCenter</strong>, a  by <em>VMware</em>. Ranked at <strong> top 10 percentile </strong> among more than 2500 candidates.
