@@ -6,7 +6,7 @@ const profileData = {
   about: {
     intro: `Insightful Information Technology Manager/Engineer with 20 years of IT leadership experience, including oversight of infrastructure, application support, and security services. Dedicated to customer satisfaction with focused delivery of technical solutions. Proven leader in directing operations, maintenance, and support of complex systems. Develops creative business solutions, leveraging diverse methodologies and delivering engineering solutions for leading organizations. Highly adept in requests for proposal development, technology needs assessments, and staff training.`,
     contact: {
-      email: "psyunix@gmail.com",
+      email: "psyunix at gmail.com",
       phone: "+1 808 two84 zero 781",
       address: "Honolulu, Hawaii, USA",
     },
