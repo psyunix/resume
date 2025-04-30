@@ -29,13 +29,30 @@ const profileData = {
     },
   ],
   skills: [
+   
     {
       title: "Languages",
-      value: "JavaScript, TypeScript, Java, C/C++, Python, SQL using PostgreSQL, MongoDB",
+      value: "Python, Bash, C, PowerShell, JavaScript, SQL, HTML5, CSS3",
     },
     {
-      title: "Frameworks/Libraries",
-      value: "ReactJS, React-Native, Redux, NodeJS-Express, NextJS, Angular",
+      title: "Databases",
+      value: "MS SQL, PostgreSQL, MySQL, Oracle",
+    },
+    {
+      title: "Operating Systems",
+      value: "Windows, Linux (RHEL, CentOS, Debian, Ubuntu), FreeBSD, Solaris",
+    },
+    {
+      title: "Virtualization",
+      value: "VMware (vSphere, vCenter), OpenShift, Docker, KVM",
+    },
+    {
+      title: "Networking",
+      value: "Cisco, Fortinet, IPsec/VPN, TCP/IP, DNS/DHCP/FTP/SSH/SFTP/HTTP/HTTPS",
+    },
+    {
+      title: "Cloud Technologies",
+      value: "Azure, AWS, GCP, OpenShift, Docker, Kubernetes",
     },
     {
       title: "Others",
@@ -174,13 +191,11 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
       title: "Resume app",
       duration: "Apr - May 2025",
       link: "https://github.com/psyunix/resume",
-      desc: `A web app to list, view and add reviews of restaurants.
-      The app includes filtering based on location, cuisine, and rating.
-      This project was a part of Udacity's <strong>Mobile Web Specialist</strong> nano degree program.
-      Developed using <strong>HTML5</strong>, <strong>CSS3</strong> and <strong>JavaScript</strong>
-      with Progressive Web-Application standards including full-responsiveness,
-      offline support, and improved accessibility.`,
+      desc: `A resume web app build with Vercel CI/CD and GitHub.
+      The app includes full history of positions and dutties.
+      Developed using <strong>HTML5</strong>, <strong>CSS3</strong> and <strong>JavaScript</strong>.`,
     },
+
     {
       title: "WhiteBoard",
       duration: "Jun - Aug 2017",
