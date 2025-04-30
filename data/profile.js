@@ -56,8 +56,7 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
 • 	Implement cloud security best practices, identity and access management (IAM), encryption, and compliance frameworks to align with enterprise security policies.
 •	 Optimize network configurations and server environments for on-premises and cloud-based infrastructures, ensuring seamless hybrid cloud integration.
 •	 Collaborate with development and data science teams to provide scalable, secure, and efficient computing environments for risk modeling and advanced analytics.
-•	 Continuously evaluate and integrate emerging cloud and DevOps technologies to enhance system reliability, cost efficiency, and operational resilience.
-`,
+•	 Continuously evaluate and integrate emerging cloud and DevOps technologies to enhance system reliability, cost efficiency, and operational resilience.`,
       ],
     },
     {
@@ -69,8 +68,7 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
 •	Deployment, maintenance, and client technical support of the Kamakura Risk Manager (KRM) and Kamakura Risk Information Services (KRIS), Azure DevOps CI/CD for the KRM-WebUI software, including design and maintaining two Colocation data centers.
 •	Analyzed department and job-related functionality requirements to align technology priorities with business needs.
 •	Developed and implemented technical application support and information technology policies and procedures that advanced investment needs, outcomes, and performance measurements to balance continuous innovation with responsible risk-taking.
-•	Job-related used technologies: Microsoft platform including the M365 Cloud, SharePoint, AD/FTP/DNS, and PowerBI, Unix/Linux, Virtualization, Storage systems (SAN&NAS) Dell/IBM/TrueNAS, Nessus Security, Cloud Computing (AWS, Azure), Fortinet Cloud Security - IPsec/VPN, OKTA IAM, RSA, Secure Pulse, VMware, Veeam Cloud DR/BC, Nagios XI monitoring, ESET AV Cloud, Python, Bash, and PowerShell Scripting, MS SQL, Oracle, PostgreSQL, R, STATA, SVN, DevOps CI/CD, YAML and JSON, Atlassian Confluence collaboration tools and Jira Agile tools for software teams. PCI Compliance. 
-`,
+•	Job-related used technologies: Microsoft platform including the M365 Cloud, SharePoint, AD/FTP/DNS, and PowerBI, Unix/Linux, Virtualization, Storage systems (SAN&NAS) Dell/IBM/TrueNAS, Nessus Security, Cloud Computing (AWS, Azure), Fortinet Cloud Security - IPsec/VPN, OKTA IAM, RSA, Secure Pulse, VMware, Veeam Cloud DR/BC, Nagios XI monitoring, ESET AV Cloud, Python, Bash, and PowerShell Scripting, MS SQL, Oracle, PostgreSQL, R, STATA, SVN, DevOps CI/CD, YAML and JSON, Atlassian Confluence collaboration tools and Jira Agile tools for software teams. PCI Compliance. `,
       ],
     },
     {
@@ -85,8 +83,7 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
 •	Managing and maintaining all production and development of corporate systems, VMware Infrastructure, and disaster recovery
 •	Building (rebuilding), staging, and deploying servers for test, development, and production environments
 •	Documenting issues clearly and effectively for reference and reporting.
-•	Job-related used technologies: OnApp (RedHat/KVM) – Enterprise Cloud, VMware cloud, AWS, Azure, Cisco/Fortinet IPsec/VPN, Tomcat, GlusterFS, HAproxy LB, LDAP, Squid Proxy, Unix/Linux, Microsoft platform Office 365 and AD, DNS, GPO, SSO, SAN/NAS (Netapp, FreeNAS), MySQL, MS SQL, PostgreSQL, ORACLE DB Clusters. Ansible, Jira, and Nessus security for ISO audit and PCI compliance.
-`,
+•	Job-related used technologies: OnApp (RedHat/KVM) – Enterprise Cloud, VMware cloud, AWS, Azure, Cisco/Fortinet IPsec/VPN, Tomcat, GlusterFS, HAproxy LB, LDAP, Squid Proxy, Unix/Linux, Microsoft platform Office 365 and AD, DNS, GPO, SSO, SAN/NAS (Netapp, FreeNAS), MySQL, MS SQL, PostgreSQL, ORACLE DB Clusters. Ansible, Jira, and Nessus security for ISO audit and PCI compliance.`,
       ],
     },
     {
@@ -174,9 +171,9 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
   ],
   projects: [
     {
-      title: "Restaurant Review",
-      duration: "Jun - Nov 2018",
-      link: "https://github.com/imvpn22/restaurant-review-pwa",
+      title: "Resume app",
+      duration: "Apr - May 2025",
+      link: "https://github.com/psyunix/resume",
       desc: `A web app to list, view and add reviews of restaurants.
       The app includes filtering based on location, cuisine, and rating.
       This project was a part of Udacity's <strong>Mobile Web Specialist</strong> nano degree program.
@@ -200,13 +197,13 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
       alma: "ICT - College for Expert Studies in Information, https://eng.ict.edu.rs/",
       duration: "2009 - 2011",
       std: "Professional Master, Specialist - Expert Engineer of Network Technologies",
-      score: "83.00%",
+      score: "93.00%",
     },
     {
       alma: "ITS - Information Technology School, https://eng.its.edu.rs/",
       duration: "2006 - 2009",
       std: "Bachelor's degree, Engineer of Information Technologies",
-      score: "95.80%",
+      score: "86.80%",
     },
   ],
   certifications: [
