@@ -184,8 +184,8 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
   ],
   certifications: [
     {
-      desc: `<strong>Mobile Web Specialist Nanodegree</strong> by <strong>Udacity</strong>.
-      (<a target='_blank' rel='noreferrer' href='https://confirm.udacity.com/RLMHXAWZ'>https://goo.gl/RGRzVn</a>)`,
+      desc: `<strong>AZ-104 Microsoft Azure Administrator</strong> by <strong>Udemy</strong>.
+      (<a target='_blank' rel='noreferrer' href='https://www.udemy.com/certificate/UC-d6b1b188-ea79-4eb8-bc42-9e3517196abc/'>https://www.udemy.com/certificate/UC-d6b1b188-ea79-4eb8-bc42-9e3517196abc/</a>)`,
       date: "May - Nov 2018",
     },
     {
