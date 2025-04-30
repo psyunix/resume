@@ -31,7 +31,7 @@ const profileData = {
   skills: [
     {
       title: "Languages",
-      value: "JavaScript, TypeScript, Java, C/C++, Python, SQL",
+      value: "JavaScript, TypeScript, Java, C/C++, Python, SQL using PostgreSQL, MongoDB",
     },
     {
       title: "Frameworks/Libraries",
