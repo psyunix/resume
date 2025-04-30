@@ -129,7 +129,7 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
     },
     {
       organization: "IT Academy | Belgrade, Serbia ",
-      title: "Computer Science Instructor"
+      title: "Computer Science Instructor",
       desc: `<strong>Product development intern</strong> at <a target='_blank' rel='noreferrer' href='https://hasura.io/'>
       <strong> Hasura </strong> </a> (<a target='_blank' rel='noreferrer' href='https://goo.gl/8V3jBy'> https://goo.gl/8V3jBy</a>)`,
       date: " Nov 2008 - May 2010 ",
