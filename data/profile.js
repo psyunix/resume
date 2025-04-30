@@ -31,8 +31,7 @@ const profileData = {
   skills: [
     {
       title: "Languages",
-      value: "	Continuous Deployment & Continuous Integration (DevOps CI/CD), Information Technology Infrastructure,Advanced Computer Software and Hardware Knowledge, Enterprise Business technology and software implementation, Cybersecurity and Data Privacy , Programming and Scripting Languages (Python, Bash, PowerShell)
-",
+      value: "JavaScript, TypeScript, Java, C/C++, Python, SQL",
     },
     {
       title: "Frameworks/Libraries",
