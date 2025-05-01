@@ -32,7 +32,7 @@ const profileData = {
    
     {
       title: "Languages",
-      value: "Python, Bash, C, PowerShell, JavaScript, SQL, HTML5, CSS3",
+      value: "Python, Bash, C, PowerShell, SQL, JavaScript, HTML5, CSS3",
     },
     {
       title: "Databases",
@@ -44,11 +44,11 @@ const profileData = {
     },
     {
       title: "Virtualization",
-      value: "VMware, OpenShift, Docker, KVM",
+      value: "VMware, Hyper-V, OpenShift, Docker, KVM",
     },
     {
       title: "Networking",
-      value: "Cisco, Fortinet, IPsec/VPN, TCP/IP, DNS/DHCP/FTP/SSH/SFTP/HTTP/HTTPS",
+      value: "TCP/IP, Routing, Switching, Firewalls, IPsec/VPN, DNS/DHCP/FTP/SSH/SFTP/HTTP/HTTPS",
     },
     {
       title: "Cloud Technologies",
@@ -56,7 +56,7 @@ const profileData = {
     },
     {
       title: "Others",
-      value: "Terraform, Ansible, Grafana and Prometheus, Backup and Data management (10+ years), VMware and Cloud technologies (10+ years), Security (10+ years), Monitoring systems (10+ years), Network (10+ years), Python/Perl/Bash/PowerShell scripting (10+ years), DevOps (5+ years)",
+      value: "Terraform, Ansible, Grafana, Prometheus, Backup and Data management (10+ years), VMware and Cloud technologies (10+ years), Security (10+ years), Monitoring systems (10+ years), Network (10+ years), Python/Perl/Bash/PowerShell scripting (10+ years), DevOps (5+ years)",
     },
   ],
   experiences: [
