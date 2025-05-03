@@ -32,7 +32,7 @@ const profileData = {
    
     {
       title: "Languages",
-      value: "Python, Bash, C, PowerShell, JavaScript, SQL, HTML5, CSS3",
+      value: "Python, Bash, C, PowerShell, SQL, JavaScript, HTML5, CSS3",
     },
     {
       title: "Databases",
