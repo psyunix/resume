@@ -225,7 +225,7 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
     }, 
 
     {
-      desc: `<strong>RHCSA</strong> SS by <strong>Udemy</strong> (<a target='_blank' rel='noreferrer' href='https://github.com/psyunix/resume/blob/main/data/certs/RHCSA-milan_cvetic_udemy.pdf'>RHCSA</a>)`,
+      desc: `<strong>RHCSA</strong> by <strong>Udemy</strong> (<a target='_blank' rel='noreferrer' href='https://github.com/psyunix/resume/blob/main/data/certs/RHCSA-milan_cvetic_udemy.pdf'>RHCSA</a>)`,
       date: "2024",
     },
 
