@@ -230,7 +230,7 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
     },
 
     {
-      desc: `<strong>VMware VCTA DataCenter</strong>, a  by <em>VMware</em>.
+      desc: `<strong>VMware VCTA DataCenter</strong>, by <em>VMware</em>.
        (<a target='_blank' rel='noreferrer' href='https://github.com/psyunix/resume/blob/main/data/certs/mcvetic_VCTA_DCV_2021.pdf'>VMware VCTA - DCV</a>)`,
       date: "2021",
     },
