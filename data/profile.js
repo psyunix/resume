@@ -56,7 +56,7 @@ const profileData = {
     },
     {
       title: "Others",
-      value: "Git, CI/CD, Terraform, Ansible, Grafana and Prometheus, Backup and Data management (10+ years), VMware and Cloud technologies (10+ years), Security (10+ years), Monitoring systems (10+ years), Network (10+ years), Python/Perl/Bash/PowerShell scripting (10+ years), DevOps (5+ years)",
+      value: "Git, CI/CD, Terraform, Ansible, Grafana and Prometheus, HAproxy/NGINX, Tomcat, Backup and Data management (10+ years), VMware and Cloud technologies (10+ years), Security (10+ years), Monitoring systems (10+ years), Network (10+ years), Python/Perl/Bash/PowerShell scripting (10+ years), DevOps (5+ years)",
     },
   ],
   experiences: [
