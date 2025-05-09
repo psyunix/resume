@@ -64,7 +64,7 @@ const profileData = {
   ],
   experiences: [
     {
-      organization: "SAS Institute | Cary, North Carolina USA",
+      organization: "SAS Institute | Cary, North Carolina USA (Honolulu office)",
       title: "Sr Systems Architect - Risk Research and Quantitative Solutions ",
       date: "Jul 2022 - May 2025",
       details: [
