@@ -203,13 +203,13 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
       title: "Kubernets 3 kind clusters",
       duration: "Jan - Aug 2025",
       link: "https://github.com/psyunix/kube-3-kind",
-      desc: `The kube-3-kind project by psyunix is a configuration designed to deploy a multi-node Kubernetes cluster using kind (Kubernetes IN Docker). 
-      This setup is particularly useful for local development, testing, and CI/CD pipelines where simulating a production-like environment is beneficial. .`,
+      desc: `The kube-3-kind project by psyunix is a configuration designed to deploy a multi-node Kubernetes cluster using kind (Kubernetes in Docker). 
+      This setup is particularly useful for local development, testing, and CI/CD pipelines, simulating a production-like environment.`,
     },
   ],
   education: [
     {
-      alma: "ICT - College for Expert Studies in Information, https://eng.ict.edu.rs/",
+      alma: "ICT - College for Expert Studies in Information, https://en.ict.edu.rs/",
       duration: "2009 - 2011",
       std: "Professional Master, Specialist - Expert Engineer of Network Technologies",
       score: "93.00%",
