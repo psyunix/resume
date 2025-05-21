@@ -43,20 +43,31 @@ const profileData = {
     },
     {
       title: "Operating Systems",
-      value: "macOS, Windows, Linux (RHEL, CentOS, Debian, Ubuntu), FreeBSD, Solaris",
+      value: "macOS, Windows, Linux (RHEL, CentOS, Debian, Ubuntu), Unix/FreeBSD, Solaris",
     },
     {
       title: "Virtualization",
-      value: "VMware, OpenShift, Docker, KVM, Hyper-V, Citrix",
+      value: "VMware, OpenShift, Docker, KVM, Hyper-V, Citrix, Xen, VDI,",
     },
     {
       title: "Networking",
-      value: "Cisco, Fortinet, IPsec/VPN, TCP/IP, WAN/LAN, DNS/DHCP/SSH/SFTP/HTTPS",
+      value: "Cisco, Fortinet, NSGs, IPsec/VPN, TCP/IP, WAN/LAN, DNS/DHCP/SSH/SFTP/HTTPS, Load Balancing, Proxies, VoIP",
     },
     {
       title: "Cloud Technologies",
-      value: "Azure, AWS, GCP, OpenShift, Docker, Kubernetes",
+      value: "Azure, AWS, GCP, OpenShift, Docker, Kubernetes, Terraform, Ansible, Git, CI/CD, DevOps",
     },
+
+    {
+      title: "IT Operations",
+      value: "DR/BC | ITIL | ITSM | Scrum/Agile, | ISO27001 | PCI-DSS | NIST | DevOps | SRE",
+    },
+    
+     {
+      title: "Security & Monitoring",
+      value: "MFA | SSO | RBAC | IAM | Okta | Vaults | Nessus | Grafana | Prometheus | Nagios | Splunk | ELK | SIEM | DLP | WAF | IPS/IDS | Firewalls | Antivirus",
+    },
+  
     {
       title: "Others",
       value: "GAI tools: Claude, ChatGPT, Azure/AWS AI, Srum/Agile, Git, CI/CD, Terraform, Ansible, Grafana and Prometheus, HAproxy/NGINX, Tomcat, Backup and Data management (15+ years), VMware and Cloud technologies (15+ years), Security (15+ years), Monitoring systems (15+ years), Network (15+ years), Python/Perl/Bash/PowerShell scripting (15+ years), DevOps (5+ years)",
