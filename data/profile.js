@@ -47,7 +47,7 @@ const profileData = {
     },
     {
       title: "Virtualization",
-      value: "VMware, OpenShift, Docker, KVM, Hyper-V, Citrix, Xen, VDI,",
+      value: "VMware, OpenShift, Docker, KVM, Hyper-V, Citrix, Xen, VDI",
     },
     {
       title: "Networking",
