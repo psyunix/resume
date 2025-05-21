@@ -54,8 +54,8 @@ const profileData = {
       value: "Cisco, Fortinet, NSGs, IPsec/VPN, TCP/IP, WAN/LAN, DNS/DHCP/SSH/SFTP/HTTPS, Load Balancing, Proxies, VoIP",
     },
     {
-      title: "Cloud Technologies",
-      value: "Azure, AWS, GCP, OpenShift, Docker, Kubernetes, Terraform, Ansible, Git, CI/CD, DevOps",
+      title: "DevOps & Cloud Technologies",
+      value: "Azure, AWS, GCP, OpenShift, Docker, Kubernetes, Terraform, Ansible, Jenkins, Git, CI/CD, DevOps",
     },
 
     {
