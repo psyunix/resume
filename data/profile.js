@@ -70,7 +70,7 @@ const profileData = {
   
     {
       title: "Others",
-      value: "GAI tools: Claude, ChatGPT, Azure/AWS AI, Srum/Agile, Git, CI/CD, Terraform, Ansible, Grafana and Prometheus, HAproxy/NGINX, Tomcat, Backup and Data management (15+ years), VMware and Cloud technologies (15+ years), Security (15+ years), Monitoring systems (15+ years), Network (15+ years), Python/Perl/Bash/PowerShell scripting (15+ years), DevOps (5+ years)",
+      value: "GAI tools: Claude, ChatGPT, Azure/AWS AI, G-suite, M365, Slack, ServiceNow, Jira, Srum/Agile, GitHub, CI/CD, Terraform, Ansible, Grafana and Prometheus, HAproxy/NGINX, Tomcat, Backup and Data management (15+ years), VMware and Cloud technologies (15+ years), Security (15+ years), Monitoring systems (15+ years), Network (15+ years), Python/Perl/Bash/PowerShell scripting (15+ years), DevOps (5+ years)",
     },
   ],
   experiences: [
