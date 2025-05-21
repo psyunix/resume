@@ -142,7 +142,7 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
 •	Led technology selection and rollout, focusing on organizational planning and supplier service-level agreements.
 •	Adjusted project plans to account for dynamic targets, staffing changes, and operational specifications.
 •	A co-coordinating project established the infrastructure for joint library services, National Web Archiving, and National metadata aggregator for Europeana (European Digital Library), Serbian Library Consortium for Coordinated Acquisition (KoBSON - www.kobson.nb.rs), and development and maintenance of the portal for scientific publications
-•	Maintained digital libraries www.velikirat.nb.rs/en and www.digitalna.nb.rs
+•	Maintained all digital services at National Library of Serbia: https://nb.rs/en/digital-services/
 •	Project manager for the design and implementation of the in-house data center, based on VMware (VMware PCoverIP VDI cluster, IBM blade system, and IBM N SAN/NAS storage with 140 zero clients), server cluster (HP blade C7000 with NetApp storage FAS2420), Cisco networking and security
 •	Install, maintain and support OPAC Library application based on HP True UNIX across the Library Network in Serbia
 •	Manage one or more technologies: Microsoft technologies (Active Directory, PowerShell), Relational SQL databases (MS SQL, Oracle, PostgreSQL, MySQL), Kaspersky and ESET AV, Nagios, Bash/Python scripting, VMware, Veeam, Linux/Unix, Cisco/Fortinet Networking and security, Nessus security. `,
