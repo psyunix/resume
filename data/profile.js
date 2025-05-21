@@ -34,9 +34,25 @@ const profileData = {
   skills: [
    
     {
-      title: "Languages",
+      title: "Cloud Platforms",
+      value: "Azure, AWS, GCP, OpenShift, VMware Cloud",
+    },
+
+     {
+      title: "DevOps & Automation",
+      value: "Azure, AWS, GCP, OpenShift, Docker, Kubernetes, Terraform, Ansible, Jenkins, Git, CI/CD, DevOps",
+    },
+
+      {
+      title: "Virtualization & Infrastructure",
+      value: "VMware, KVM, Hyper-V, Citrix, Veeam, SAN/NAS ",
+    },
+
+    {
+      title: "Scripting & Languages",
       value: "Python, Bash, C, PowerShell, SQL, JavaScript, HTML5, CSS3",
     },
+
     {
       title: "Databases",
       value: "MS SQL, PostgreSQL, MySQL, Oracle",
@@ -47,25 +63,22 @@ const profileData = {
     },
     {
       title: "Virtualization",
-      value: "VMware, OpenShift, Docker, KVM, Hyper-V, Citrix, Xen, VDI",
+      value: "VMware, OpenShift, Docker, KVM, Hyper-V, Citrix, Xen, VDI, SAN/NAS",
     },
     {
       title: "Networking",
       value: "Cisco, Fortinet, NSGs, IPsec/VPN, TCP/IP, WAN/LAN, DNS/DHCP/SSH/SFTP/HTTPS, Load Balancing, Proxies, VoIP",
     },
-    {
-      title: "DevOps & Cloud Technologies",
-      value: "Azure, AWS, GCP, OpenShift, Docker, Kubernetes, Terraform, Ansible, Jenkins, Git, CI/CD, DevOps",
-    },
+    
 
     {
       title: "IT Operations",
-      value: "DR/BC | ITIL | ITSM | Scrum/Agile, | ISO27001 | PCI-DSS | NIST | DevOps | SRE",
+      value: "DR/BC, ITIL, ITSM, Scrum/Agile, ISO27001, PCI-DSS, NIST, SRE",
     },
     
      {
       title: "Security & Monitoring",
-      value: "MFA | SAML 2.0 | OAuth/SSO | RBAC | IAM | Okta | Vaults | Nessus | Grafana | Prometheus | Nagios | Splunk | ELK | SIEM | DLP | WAF | IPS/IDS | Firewalls | Antivirus",
+      value: "MFA, SAML 2.0, OAuth/SSO, RBAC, IAM, Okta, Vaults, Nessus, Grafana, Prometheus, Nagios, Splunk, ELK, SIEM, DLP, WAF, IPS/IDS, Firewalls, Antivirus",
     },
   
     {
