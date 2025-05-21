@@ -35,22 +35,22 @@ const profileData = {
    
     {
       title: "Cloud Platforms",
-      value: "Azure, AWS, GCP, OpenShift, VMware Cloud",
+      value: "Azure, AWS, GCP, OCI, OpenShift, VMware Cloud",
     },
 
      {
       title: "DevOps & Automation",
-      value: "Azure, AWS, GCP, OpenShift, Docker, Kubernetes, Terraform, Ansible, Jenkins, Git, CI/CD, DevOps",
+      value: "Azure, AWS, GCP, OpenShift, Docker, Kubernetes, Terraform, Ansible, Jenkins, Git, CI/CD, GitHub Actions, Azure DevOps Pipelines, GitLab CI/CD, Vercel CI/CD",
     },
 
       {
       title: "Virtualization & Infrastructure",
-      value: "VMware, KVM, Hyper-V, Citrix, Veeam, SAN/NAS ",
+      value: "VMware, KVM, Hyper-V, Citrix, VDI, Veeam, SAN/NAS",
     },
 
     {
       title: "Scripting & Languages",
-      value: "Python, Bash, C, PowerShell, SQL, JavaScript, HTML5, CSS3",
+      value: "Python, Bash, C, PowerShell, YAML, JSON, JavaScript, HTML5, CSS3",
     },
 
     {
@@ -61,13 +61,10 @@ const profileData = {
       title: "Operating Systems",
       value: "macOS, Windows, Linux (RHEL, CentOS, Debian, Ubuntu), Unix/FreeBSD, Solaris",
     },
-    {
-      title: "Virtualization",
-      value: "VMware, OpenShift, Docker, KVM, Hyper-V, Citrix, Xen, VDI, SAN/NAS",
-    },
+   
     {
       title: "Networking",
-      value: "Cisco, Fortinet, NSGs, IPsec/VPN, TCP/IP, WAN/LAN, DNS/DHCP/SSH/SFTP/HTTPS, Load Balancing, Proxies, VoIP",
+      value: "Cisco, Fortinet, NSGs, IPsec/VPN, TCP/IP, WAN/LAN, DNS/DHCP/SSH/SFTP/HTTPS, LB, Proxies, VoIP",
     },
     
 
@@ -83,7 +80,7 @@ const profileData = {
   
     {
       title: "Others",
-      value: "GAI tools: Claude, ChatGPT, Azure/AWS AI, G-suite, M365, Slack, ServiceNow, Jira, Srum/Agile, GitHub, CI/CD, Terraform, Ansible, Grafana and Prometheus, HAproxy/NGINX, Tomcat, Backup and Data management (15+ years), VMware and Cloud technologies (15+ years), Security (15+ years), Monitoring systems (15+ years), Network (15+ years), Python/Perl/Bash/PowerShell scripting (15+ years), DevOps (5+ years)",
+      value: "GAI tools: Claude, ChatGPT, Azure/AWS AI, G-suite, M365, Slack, ServiceNow, Jira, Srum/Agile, GitHub, CI/CD, Terraform, Ansible, Grafana and Prometheus, HAproxy/NGINX, Tomcat",
     },
   ],
   experiences: [
