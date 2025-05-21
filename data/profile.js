@@ -65,7 +65,7 @@ const profileData = {
     
      {
       title: "Security & Monitoring",
-      value: "MFA | SSO | RBAC | IAM | Okta | Vaults | Nessus | Grafana | Prometheus | Nagios | Splunk | ELK | SIEM | DLP | WAF | IPS/IDS | Firewalls | Antivirus",
+      value: "MFA | SAML 2.0 | OAuth/SSO | RBAC | IAM | Okta | Vaults | Nessus | Grafana | Prometheus | Nagios | Splunk | ELK | SIEM | DLP | WAF | IPS/IDS | Firewalls | Antivirus",
     },
   
     {
