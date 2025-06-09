@@ -83,6 +83,15 @@ const profileData = {
     },
   ],
   experiences: [
+      {
+      organization: "University of Hawaii, Manoa | Information Technology Center | Honolulu, Hawaii USA",
+      title: "IT Systems Specialist",
+      date: "2025",
+      details: [
+        `Install, configure, and maintain Linux and Windows operating systems and vSphere hypervisor, vCenter management system in support of Information Technology Services projects`,
+      ],
+    },
+
     {
       organization: "SAS Institute | Cary, North Carolina USA (Honolulu office)",
       title: "Sr Systems Architect - Risk Research and Quantitative Solutions ",
@@ -99,6 +108,7 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
 •	 Continuously evaluate and integrate emerging cloud and DevOps technologies to enhance system reliability, cost efficiency, and operational resilience.`,
       ],
     },
+
     {
       organization: "Kamakura Corporation | Honolulu, Hawaii USA",
       title: `Director of Information Technology (CTO)`,
