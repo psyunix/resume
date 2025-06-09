@@ -86,7 +86,7 @@ const profileData = {
     {
       organization: "SAS Institute | Cary, North Carolina USA (Honolulu office)",
       title: "Sr Systems Architect - Risk Research and Quantitative Solutions ",
-      date: "Jul 2022 - May 2025",
+      date: "Jul 2022 - 2025",
       details: [
         `Main tasks involve troubleshooting, supporting internal application systems, keeping the production and development network and server environment running smoothly on a day-to-day basis using: SAS Viya, VMware, Azure, AWS, GCP, OpenShift, DevOps CI/CD (Docker, Kubernetes, Git, Terraform)
 Led the architecture, deployment, and maintenance of SAS Viya environments across Azure, AWS, and GCP, ensuring high availability, security, and performance optimization.
