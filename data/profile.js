@@ -263,6 +263,16 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
     },
 
     {
+      desc: `<strong>Windows Server 2022 Administration</strong> by <strong>Udemy</strong> (<a target='_blank' rel='noreferrer' href='https://github.com/psyunix/resume/blob/main/data/certs/RHCSA-milan_cvetic_udemy.pdf'>RHCSA</a>)`,
+      date: " 2025",
+    },
+
+    {
+      desc: `<strong>Kubernetes Certified (KCNA)</strong> by <strong>Udemy</strong> (<a target='_blank' rel='noreferrer' href='https://github.com/psyunix/resume/blob/main/data/certs/RHCSA-milan_cvetic_udemy.pdf'>RHCSA</a>)`,
+      date: "2025",
+    },
+
+    {
       desc: `<strong>VMware VCTA DataCenter</strong>, by  <strong>VMware</strong>.
        (<a target='_blank' rel='noreferrer' href='https://github.com/psyunix/resume/blob/main/data/certs/mcvetic_VCTA_DCV_2021.pdf'>VMware VCTA - DCV</a>)`,
       date: "2021",
