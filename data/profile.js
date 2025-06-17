@@ -263,7 +263,7 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
     },
 
     {
-      desc: `<strong>Windows Server 2022 Administration</strong> by <strong>Udemy IN PROGRESS</strong> (<a target='_blank' rel='noreferrer' href='https://github.com/psyunix/resume/blob/main/data/certs/RHCSA-milan_cvetic_udemy.pdf'>MCSE</a>)`,
+      desc: `<strong>Windows Server 2022 Administration</strong> by <strong>Udemy IN PROGRESS</strong> (<a target='_blank' rel='noreferrer' href='https://github.com/psyunix/resume/blob/main/data/certs/WinSRV_2022_admin_Udemy.pdf'>MCSE</a>)`,
       date: " 2025",
     },
 
