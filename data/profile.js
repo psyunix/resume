@@ -279,9 +279,9 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
     },
 
     {
-      desc: `<strong>VMware VCP</strong>, by  <strong>VMware</strong>.
+      desc: `<strong>VMware VCP 4.1</strong>, by  <strong>VMware</strong>.
        (<a target='_blank' rel='noreferrer' href='https://github.com/psyunix/resume/blob/main/data/certs/mcvetic_vmware_4.1.pdf'>VMware VCP 4.1</a>)`,
-      date: "2021",
+      date: "2011",
     },
 
   ],
