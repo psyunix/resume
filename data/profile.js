@@ -268,7 +268,7 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
     },
 
     {
-      desc: `<strong>Kubernetes Certified (KCNA)</strong> by <strong>Udemy IN PROGRESS</strong> (<a target='_blank' rel='noreferrer' href='https://github.com/psyunix/resume/blob/main/data/certs/milan_cvetic_kcna.pdf'>KCNA</a>)`,
+      desc: `<strong>Kubernetes Certified (KCNA)</strong> by <strong>Udemy</strong> (<a target='_blank' rel='noreferrer' href='https://github.com/psyunix/resume/blob/main/data/certs/milan_cvetic_kcna.pdf'>KCNA</a>)`,
       date: "2025",
     },
 
