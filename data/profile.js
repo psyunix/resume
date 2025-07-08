@@ -248,7 +248,7 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
       alma: "ITS - Information Technology School, (<a target='_blank' rel='noreferrer' href='https://eng.its.edu.rs/'>https://eng.its.edu.rs/</a>)",
       duration: "2006 - 2009",
       std: "Bachelor's degree, Engineer of Information Technologies",
-      score: "86.80%",
+      score: "87.80%",
     },
   ],
   certifications: [
