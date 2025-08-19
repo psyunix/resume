@@ -1,7 +1,7 @@
 const profileData = {
   title: "Resume",
   name: "Milan Cvetic",
-  sub_title: "Senior Information Technology Manager/Engineer,
+  sub_title: "Senior Information Technology Manager/Engineer",
   logoURL: "assets/images/dp.jpg",
   about: {
     intro: `Insightful Information Technology Manager/Engineer with 20 years of IT leadership experience, including oversight of infrastructure, application support, and security services. Dedicated to customer satisfaction with focused delivery of technical solutions. 
