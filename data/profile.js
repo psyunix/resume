@@ -36,70 +36,50 @@ const profileData = {
     {
       title: "Cloud Platforms",
       value: "Azure, AWS, GCP, OCI, OpenShift, VMware Cloud",
-      category: "Cloud Platforms",
-      topics: ["Azure", "AWS", "GCP", "OCI", "OpenShift", "VMware Cloud"],
     },
 
      {
       title: "DevOps & Automation",
       value: "Azure, AWS, GCP, OpenShift, Docker, Kubernetes, Terraform, Ansible, Jenkins, Git, CI/CD, GitHub Actions, Azure DevOps Pipelines, GitLab CI/CD, Vercel CI/CD",
-      category: "DevOps & Automation",
-      topics: ["Azure", "AWS", "GCP", "OpenShift", "Docker", "Kubernetes", "Terraform", "Ansible", "Jenkins", "Git", "CI/CD", "GitHub Actions", "Azure DevOps Pipelines", "GitLab CI/CD", "Vercel CI/CD"],
     },
 
       {
       title: "Virtualization & Infrastructure",
       value: "VMware, KVM, Hyper-V, Citrix, VDI, Veeam, SAN/NAS",
-      category: "Virtualization & Infrastructure",
-      topics: ["VMware", "KVM", "Hyper-V", "Citrix", "VDI", "Veeam", "SAN/NAS"],
     },
 
     {
       title: "Scripting & Languages",
       value: "Python, Bash, C, PowerShell, YAML, JSON, JavaScript, HTML5, CSS3",
-      category: "Scripting & Languages",
-      topics: ["Python", "Bash", "C", "PowerShell", "YAML", "JSON", "JavaScript", "HTML5", "CSS3"],
     },
 
      {
       title: "Security & Monitoring",
       value: "ZTA, MFA, SAML 2.0, OAuth/SSO, RBAC, IAM, Okta, Vaults, Nessus, Grafana, Prometheus, Nagios, Splunk, ELK, SIEM, DLP, WAF, IPS/IDS, Firewalls, Antivirus",
-      category: "Security & Monitoring",
-      topics: ["ZTA", "MFA", "SAML 2.0", "OAuth/SSO", "RBAC", "IAM", "Okta", "Vaults", "Nessus", "Grafana", "Prometheus", "Nagios", "Splunk", "ELK", "SIEM", "DLP", "WAF", "IPS/IDS", "Firewalls", "Antivirus"],
     },
 
      {
       title: "Networking",
       value: "Cisco, Fortinet, NSGs, IPsec/VPN, TCP/IP, WAN/LAN, DNS/DHCP/SSH/SFTP/HTTPS, LB, Proxies, VoIP",
-      category: "Networking",
-      topics: ["Cisco", "Fortinet", "NSGs", "IPsec/VPN", "TCP/IP", "WAN/LAN", "DNS/DHCP/SSH/SFTP/HTTPS", "LB", "Proxies", "VoIP"],
     },
 
      {
       title: "IT Operations",
       value: "DR/BC, ITIL, ITSM, Scrum/Agile, ISO27001, PCI-DSS, NIST, SRE",
-      category: "IT Operations",
-      topics: ["DR/BC", "ITIL", "ITSM", "Scrum/Agile", "ISO27001", "PCI-DSS", "NIST", "SRE"],
     },
 
     {
       title: "DBMS",
       value: "MS SQL, PostgreSQL, MySQL, Oracle",
-      category: "DBMS",
-      topics: ["MS SQL", "PostgreSQL", "MySQL", "Oracle"],
     },
     {
       title: "Operating Systems",
       value: "macOS, Windows, Linux (RHEL, CentOS, Debian, Ubuntu), Unix/FreeBSD, Solaris",
-      category: "Operating Systems",
-      topics: ["macOS", "Windows", "Linux (RHEL, CentOS, Debian, Ubuntu)", "Unix/FreeBSD", "Solaris"],
     },
 
     {
       title: "Tools",
       value: "GAI tools: Claude, ChatGPT, Azure/AWS AI, G-suite, M365, Slack, ServiceNow, Jira, Srum/Agile, GitHub, CI/CD, Terraform, Ansible, Grafana and Prometheus, HAproxy/NGINX, Tomcat",
-      category: "Tools",
-      topics: ["GAI tools: Claude, ChatGPT, Azure/AWS AI", "G-suite", "M365", "Slack", "ServiceNow", "Jira", "Srum/Agile", "GitHub", "CI/CD", "Terraform", "Ansible", "Grafana and Prometheus", "HAproxy/NGINX", "Tomcat"],
     },
   ],
   experiences: [
