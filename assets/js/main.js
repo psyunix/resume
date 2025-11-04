@@ -161,7 +161,22 @@ const setExperience = (experiences) => {
 
     const expDura = document.createElement("span");
     expDura.className = "exp-title";
-    expDura.innerHTML = `, (${exper.date})`;
+    // Make "Present" bold in the date
+    const dateText = exper.date;
+    const dateParts = dateText.split(/(\bPresent\b)/i);
+    const dateFragment = document.createDocumentFragment();
+    dateFragment.appendChild(document.createTextNode(', ('));
+    dateParts.forEach((part, index) => {
+      if (part.match(/^Present$/i)) {
+        const strong = document.createElement('strong');
+        strong.textContent = part;
+        dateFragment.appendChild(strong);
+      } else if (part) {
+        dateFragment.appendChild(document.createTextNode(part));
+      }
+    });
+    dateFragment.appendChild(document.createTextNode(')'));
+    expDura.appendChild(dateFragment);
 
     expItem.appendChild(expTitle);
     expItem.appendChild(expDura);
