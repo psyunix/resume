@@ -86,7 +86,7 @@ const profileData = {
       {
       organization: "University of Hawaii, Manoa | Information Technology Center | Honolulu, Hawaii USA",
       title: "IT Systems Specialist",
-      date: "2025 - Present",
+      date: "2025 - <strong>Present</strong>",
       details: [
         `Install, configure, and maintain Linux and Windows operating systems and vSphere hypervisor, vCenter management system in support of Information Technology Services projects`,
       ],

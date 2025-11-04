@@ -161,7 +161,7 @@ const setExperience = (experiences) => {
 
     const expDura = document.createElement("span");
     expDura.className = "exp-title";
-    expDura.innerText = `, (${exper.date})`;
+    expDura.innerHTML = `, (${exper.date})`;
 
     expItem.appendChild(expTitle);
     expItem.appendChild(expDura);
