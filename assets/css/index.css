@@ -281,18 +281,34 @@ strong {
 }
 
 .exp-item {
-  display: inline-flex;
+  display: flex;
+  flex-direction: column;
   flex-wrap: wrap;
+  margin-bottom: 0.5rem;
 }
 
 .exp-org {
-  font-weight: 600;
-  letter-spacing: 1px;
-  color: #444;
+  font-weight: 700;
+  font-size: 1.2rem;
+  letter-spacing: 0.5px;
+  color: #0066cc;
+  display: block;
+  margin-bottom: 0.3rem;
 }
 
 .exp-title {
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #0066cc;
+  display: block;
+  margin-bottom: 0.3rem;
+}
+
+.exp-date {
   color: #666;
+  font-size: 0.95rem;
+  font-style: italic;
+  margin-top: 0.2rem;
 }
 
 .ach-title {
@@ -413,5 +429,26 @@ strong {
   .project-desc {
     color: #444;
     padding: 4px 0;
+  }
+
+  .exp-org {
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: 0.4rem;
+  }
+
+  .exp-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin-bottom: 0.4rem;
+  }
+
+  .exp-date {
+    font-size: 1rem;
+    margin-top: 0.3rem;
+  }
+
+  .exp-item {
+    margin-bottom: 0.8rem;
   }
 }

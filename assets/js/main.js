@@ -160,7 +160,7 @@ const setExperience = (experiences) => {
     expTitle.innerHTML = `&nbsp- ${exper.title}`;
 
     const expDura = document.createElement("span");
-    expDura.className = "exp-title";
+    expDura.className = "exp-date";
     // Make "Present" bold in the date
     const dateText = exper.date;
     const dateParts = dateText.split(/(\bPresent\b)/i);
