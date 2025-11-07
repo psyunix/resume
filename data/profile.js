@@ -32,38 +32,31 @@ const profileData = {
     },
   ],
   skills: [
-   
     {
       title: "Cloud Platforms",
       value: "Azure, AWS, GCP, OCI, OpenShift, VMware Cloud",
     },
-
-     {
+    {
       title: "DevOps & Automation",
       value: "Azure, AWS, GCP, OpenShift, Docker, Kubernetes, Terraform, Ansible, Jenkins, Git, CI/CD, GitHub Actions, Azure DevOps Pipelines, GitLab CI/CD, Vercel CI/CD",
     },
-
-      {
+    {
       title: "Virtualization & Infrastructure",
       value: "VMware, KVM, Hyper-V, Citrix, VDI, Veeam, SAN/NAS",
     },
-
     {
       title: "Scripting & Languages",
       value: "Python, Bash, C, PowerShell, YAML, JSON, JavaScript, HTML5, CSS3",
     },
-
-     {
+    {
       title: "Security & Monitoring",
       value: "ZTA, MFA, SAML 2.0, OAuth/SSO, RBAC, IAM, Okta, Vaults, Nessus, Grafana, Prometheus, Nagios, Splunk, ELK, SIEM, DLP, WAF, IPS/IDS, Firewalls, Antivirus",
     },
-
-     {
+    {
       title: "Networking",
       value: "Cisco, Fortinet, NSGs, IPsec/VPN, TCP/IP, WAN/LAN, DNS/DHCP/SSH/SFTP/HTTPS, LB, Proxies, VoIP",
     },
-
-     {
+    {
       title: "IT Operations",
       value: "DR/BC, ITIL, ITSM, Scrum/Agile, ISO27001, PCI-DSS, NIST, SRE",
     },
@@ -111,7 +104,7 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
 
     {
       organization: "Kamakura Corporation | Honolulu, Hawaii USA",
-      title: `Director of Information Technology (CTO)`,
+      title: "Director of Information Technology (CTO)",
       date: "Jun 2019 - Jul 2022",
       details: [
         `•	Primary responsibilities include troubleshooting, supporting internal application systems, and maintaining the day-to-day operation of the production and development network and server environment.
@@ -123,8 +116,8 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
     },
     {
       organization: "Superb Internet Corp | Honolulu, Hawaii USA",
-      title: `Senior System Engineer`,
-      date: " Oct 2016 - Jun 2021",
+      title: "Senior System Engineer",
+      date: "Oct 2016 - Jun 2021",
       details: [
         `•	Design and maintenance of three data centers across the USA
 •	Primary responsibilities include troubleshooting T 3/4 level support, internal application systems, and maintaining the day-to-day operation of the production and development network and server environment based on UNIX/Linux.
@@ -138,7 +131,7 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
     },
     {
       organization: "National Library of Serbia | Belgrade, Serbia",
-      title: `Head of IT Department - System Engineer`,
+      title: "Head of IT Department - System Engineer",
       date: "Aug 2009 - Apr 2016",
       details: [
         `•	Leading System Engineer coordinating a team (development and IT support) responsible for smooth computer services of the National Library, with more than 250 employees and around 1.000 visitors daily
@@ -155,9 +148,9 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
       ],
     },
     {
-      organization: "Automobile Association of Serbia and AMS Insurance Corp | Belgrade, Serbia ",
+      organization: "Automobile Association of Serbia and AMS Insurance Corp | Belgrade, Serbia",
       title: "Senior System Engineer",
-      date: " Jan 2013 - Dec 2016 ",
+      date: "Jan 2013 - Dec 2016",
       details: [
         `•	Planned, installed, configured, and tested network appliances for mass storage, backup, disaster recovery, and OS security and maintenance
 •	Resolved issues and escalated problems with knowledgeable support and quality service.
@@ -173,11 +166,9 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
       ],
     },
     {
-      organization: "IT Academy | Belgrade, Serbia ",
+      organization: "IT Academy | Belgrade, Serbia",
       title: "Computer Science Instructor",
-      desc: `<strong>Product development intern</strong> at <a target='_blank' rel='noreferrer' href='https://hasura.io/'>
-      <strong> Hasura </strong> </a> (<a target='_blank' rel='noreferrer' href='https://goo.gl/8V3jBy'> https://goo.gl/8V3jBy</a>)`,
-      date: " Nov 2008 - May 2010 ",
+      date: "Nov 2008 - May 2010",
       details: [
         `•	Lecturer and course instructor of the Linux Module - intermediate level, for 60 students divided into three groups
 •	Assessed, documented and reported student progress in Linux computer class.
@@ -190,9 +181,9 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
     },
 
     {
-      organization: "BeocityNet ISP | Belgrade, Serbia ",
+      organization: "BeocityNet ISP | Belgrade, Serbia",
       title: "IT System Administrator",
-      date: " Oct 2008 - Apr 2009  ",
+      date: "Oct 2008 - Apr 2009",
       details: [
         `•	ADSL, Dial-up, Linux Hosting – T 2/3 support for more than 15K+ customers for different services, 24/7
 •	Established network specifications and analyzed workflow, access, information, and security requirements.
@@ -206,9 +197,9 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
     },
 
     {
-      organization: "VeratNet ISP | Belgrade, Serbia ",
+      organization: "VeratNet ISP | Belgrade, Serbia",
       title: "IT System Administrator",
-      date: " Jun 2007 -  Jan 2008  ",
+      date: "Jun 2007 - Jan 2008",
       details: [
         `•	Provided 24/7 technical and business support and System administration for 100K+ customers (Dial-up, ADSL, Wireless, Windows/Linux hosting)
 •	Managed Linux RHEL, UNIX, Solaris (SPARC), and Windows servers
@@ -264,7 +255,7 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
 
     {
       desc: `<strong>Windows Server 2022 Administration</strong> by <strong>Udemy</strong> (<a target='_blank' rel='noreferrer' href='https://github.com/psyunix/resume/blob/main/data/certs/WinSRV_2022_admin_Udemy.pdf'>MCSE</a>)`,
-      date: " 2025",
+      date: "2025",
     },
 
     {
