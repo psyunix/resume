@@ -1,9 +1,9 @@
-# Résumé 
+# Résumé
 
 ### About
-It is my simple resume made with HTML, CSS, JS using JSON data.   
+Simple résumé site built with vanilla HTML, CSS, and JavaScript using a single data object.  
 
-HTML is used for making the initial block structure of the page with some simple data, CSS is used for giving some style to the page, and JS is used to create small UI components dynamically and fill the data into the page. All the data about details related to the user is stored as a JSON object in a JS file.
+HTML defines the initial structure; CSS provides styling; JavaScript converts structured data into DOM fragments (progressively enhancing the static layout). All profile content lives inside `data/profile.js` as a plain JS object (`profileData`).
 
 ### Getting Started
 
@@ -13,15 +13,14 @@ _( Make sure you have a GitHub account )_
 2. Go to the forked repo on your profile (It opens by default).    
 3. Edit the `data/profile.js` file using GitHub online editor and fill in your data.
 4. Save above by doing `commit changes`.
-5. Open the settings of repo and enable [github pages](https://pages.github.com/) choosing a source to `master` branch.  
+5. Open the repo Settings and enable [GitHub Pages](https://pages.github.com/) selecting the `main` branch (root).  
 6. Visit `https://<your GitHub username>.github.io/resume` in your browser.  
 7. Additionally you can print/save the page as a PDF.  
 
 #### Using local development
-If you are a web developer like me and want to run this on your local system then follow the instructions mentioned below.  
-The project needs to be hosted using any Web-Server like `apache`, `tomcat`, `http-server` or `SimpleHTTPServer` etc. I use `http-server` as it is very simple to use. Install `http-server` from [here](https://www.npmjs.com/package/http-server) (NodeJS and npm need to installed first to run it).
+If you want to run locally follow the steps below. The project can be served by any static web server (`http-server`, Python's `http.server`, Nginx, Apache, etc). Below shows the Node-based `http-server` method. (Requires Node.js + npm.)
 
-Additionally, if you are using [VSCode](https://code.visualstudio.com/download), the same can be done with [Live Server extention](https://www.freecodecamp.org/news/vscode-live-server-auto-refresh-browser/).
+Tip: In VS Code you can use the Live Server extension for auto-reload.
 
 1. Clone the repo using git or download the zip of the project on your local system.
 To clone
@@ -45,14 +44,36 @@ Hit CTRL-C to stop the server
 
 3. Visit `http://localhost:8080` in the browser.   
 
-4. Make changes in the `data/profile.js` file, and refresh the page in the browser. Additionally, you can make changes in the architecture and design of the page as well.
+4. Edit `data/profile.js`, then refresh the browser. You can safely add/remove sections—missing arrays are ignored by defensive JS checks.
 
-5. Save/Print the PDF page. Your Resume is ready.
+5. (Optional) Use your browser's print dialog to export a PDF. Adjust scaling for best fit.
+
+### Data Model Overview
+`profileData` contains keys: `title`, `name`, `sub_title`, `about`, `links`, `skills`, `experiences`, `projects`, `education`, `certifications`, `events`.
+
+Each renderer function expects minimal structure; undefined sections are skipped. This makes it easy to trim content for a shorter résumé.
+
+### Accessibility & Improvements
+Recent fixes:
+- Added `meta charset` and proper viewport attributes.
+- Normalized obfuscated email / phone into clickable links when possible.
+- Fixed incorrect `aria-hidden` attribute and improved icon semantics.
+- Title now reflects actual profile name.
+
+Potential next steps (not yet implemented):
+- Add semantic landmarks (`<header>`, `<main>`, `<footer>`).
+- Include a print stylesheet to optimize PDF export.
+- Add ESLint + Prettier configuration for consistency.
+- Convert `profile.js` to JSON and load asynchronously for easier reuse.
+
+### Contributing
+1. Fork → branch → changes.
+2. Run a local static server for manual testing.
+3. Open a pull request with a concise description of changes.
 
 
 ### Support
-If you like the project idea, make sure to give it a star. 
-If you want to contribute, just give me a PR.
+If you like the project idea, please star the repo. Contributions welcome—PRs for accessibility, print styles, or data model enhancements are especially appreciated.
 
 
 

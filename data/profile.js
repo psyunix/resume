@@ -9,8 +9,8 @@ const profileData = {
     Highly adept in requests for proposal development, technology needs assessments, and staff training.
     Recently focused on implementing AI-driven solutions across Azure and AWS platforms, including intelligent automation, document processing, and generative AI integrations.`,
     contact: {
-      email: "psyunix at gmail.com",
-      phone: "+1 808 two84 zero 781",
+      email: "psyunix [at] gmail [dot] com", // Obfuscated for scraping protection; normalized in JS
+      phone: "+1 808 two84 zero 781", // Obfuscated; JS will only link if enough digits
       address: "Honolulu, Hawaii, USA",
     },
   },
@@ -38,7 +38,7 @@ const profileData = {
     },
     {
       title: "DevOps & Automation",
-      value: "Azure, AWS, GCP, OpenShift, Docker, Kubernetes, Terraform, Ansible, Jenkins, Git, CI/CD, GitHub Actions, Azure DevOps Pipelines, GitLab CI/CD, Vercel CI/CD",
+      value: "Azure, AWS, GCP, OpenShift, Docker, Kubernetes, Terraform, Ansible, Jenkins, Git, CI/CD, GitHub Actions, Azure DevOps Pipelines, GitLab CI/CD, Vercel",
     },
     {
       title: "Virtualization & Infrastructure",
@@ -72,12 +72,12 @@ const profileData = {
 
     {
       title: "Tools",
-      value: "GAI tools: Claude, ChatGPT, Azure/AWS AI, G-suite, M365, Slack, ServiceNow, Jira, Srum/Agile, GitHub, CI/CD, Terraform, Ansible, Grafana and Prometheus, HAproxy/NGINX, Tomcat",
+      value: "GAI tools: Claude, ChatGPT, Azure/AWS AI, Google Workspace, M365, Slack, ServiceNow, Jira, Scrum/Agile, GitHub, CI/CD, Terraform, Ansible, Grafana/Prometheus, HAProxy/NGINX, Tomcat",
     },
   ],
   experiences: [
       {
-      organization: "University of Hawaii, Manoa | Information Technology Center | Honolulu, Hawaii USA",
+  organization: "University of Hawai‘i at Mānoa | Information Technology Center | Honolulu, Hawaii, USA",
       title: "IT Systems Specialist",
       date: "2025 - Present",
       details: [
@@ -86,7 +86,7 @@ const profileData = {
     },
 
     {
-      organization: "SAS Institute | Cary, North Carolina USA (Honolulu office)",
+  organization: "SAS Institute | Cary, North Carolina, USA (Honolulu office)",
       title: "Sr Systems Architect - Risk Research and Quantitative Solutions ",
       date: "Jul 2022 - 2025",
       details: [
@@ -103,7 +103,7 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
     },
 
     {
-      organization: "Kamakura Corporation | Honolulu, Hawaii USA",
+  organization: "Kamakura Corporation | Honolulu, Hawaii, USA",
       title: "Director of Information Technology (CTO)",
       date: "Jun 2019 - Jul 2022",
       details: [
@@ -115,7 +115,7 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
       ],
     },
     {
-      organization: "Superb Internet Corp | Honolulu, Hawaii USA",
+  organization: "Superb Internet Corp | Honolulu, Hawaii, USA",
       title: "Senior System Engineer",
       date: "Oct 2016 - Jun 2021",
       details: [
@@ -148,7 +148,7 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
       ],
     },
     {
-      organization: "Automobile Association of Serbia and AMS Insurance Corp | Belgrade, Serbia",
+  organization: "Automobile Association of Serbia and AMS Insurance Corp | Belgrade, Serbia",
       title: "Senior System Engineer",
       date: "Jan 2013 - Dec 2016",
       details: [
@@ -212,16 +212,16 @@ Led the architecture, deployment, and maintenance of SAS Viya environments acros
   ],
   projects: [
     {
-      title: "Resume app",
+  title: "Resume app",
       duration: "Apr - May 2025",
       link: "https://github.com/psyunix/resume",
-      desc: `A resume web app build with Vercel CI/CD and GitHub.
-      The app includes full history of positions and dutties.
-      Developed using <strong>HTML5</strong>, <strong>CSS3</strong> and <strong>JavaScript</strong>.`,
+  desc: `A resume web app built with Vercel CI/CD and GitHub.
+  The app includes full history of positions and duties.
+  Developed using <strong>HTML5</strong>, <strong>CSS3</strong> and <strong>JavaScript</strong>.`,
     },
 
     {
-      title: "Kubernets 3 kind clusters",
+      title: "Kubernetes 3 kind clusters",
       duration: "Jan - Aug 2025",
       link: "https://github.com/psyunix/kube-3-kind",
       desc: `The kube-3-kind project by psyunix is a configuration designed to deploy a multi-node Kubernetes cluster using kind (Kubernetes in Docker). 

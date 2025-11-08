@@ -5,11 +5,35 @@ const setTitle = (data) => {
   document.querySelector("#profileName").innerHTML = data.name;
   document.querySelector("#profileSubTitle").innerHTML = data.sub_title;
   document.querySelector("#aboutIntro").innerHTML = data.about.intro;
-  document.querySelector("#contactEmail").innerHTML = data.about.contact.email;
-  document
-    .querySelector("#contactEmail")
-    .setAttribute("href", `mailto:${data.about.contact.email}`);
-  document.querySelector("#contactPhone").innerHTML = data.about.contact.phone;
+  // Normalize and set email if present
+  const emailEl = document.querySelector("#contactEmail");
+  if (emailEl && data?.about?.contact?.email) {
+    const rawEmail = String(data.about.contact.email);
+    // Allow formats like 'name at domain dot com' and convert to valid email
+    const normalizedEmail = rawEmail
+      .replace(/\s+at\s+/gi, "@")
+      .replace(/\s*\[at\]\s*/gi, "@")
+      .replace(/\s+dot\s+/gi, ".")
+      .replace(/\s*\[dot\]\s*/gi, ".")
+      .replace(/\s+/g, "")
+      .trim();
+    emailEl.textContent = normalizedEmail;
+    emailEl.setAttribute("href", `mailto:${normalizedEmail}`);
+  }
+  // Set phone as tel: link
+  const phoneEl = document.querySelector("#contactPhone");
+  if (phoneEl && data?.about?.contact?.phone) {
+    const tel = String(data.about.contact.phone).replace(/[^+\d]/g, "");
+    phoneEl.textContent = data.about.contact.phone;
+    // Only set tel: if we have at least 10 digits
+    const digitCount = (tel.match(/\d/g) || []).length;
+    if (digitCount >= 10) {
+      phoneEl.setAttribute("href", `tel:${tel}`);
+    } else {
+      phoneEl.removeAttribute("href");
+      phoneEl.setAttribute("aria-disabled", "true");
+    }
+  }
 };
 
 const setLinks = (links) => {
@@ -155,27 +179,25 @@ const setExperience = (experiences) => {
     expOrg.innerHTML = exper.organization;
     expItem.appendChild(expOrg);
 
-    const expTitle = document.createElement("span");
-    expTitle.className = "exp-title";
-    expTitle.innerHTML = `&nbsp- ${exper.title}`;
+  const expTitle = document.createElement("span");
+  expTitle.className = "exp-title";
+  expTitle.textContent = exper.title;
 
     const expDura = document.createElement("span");
     expDura.className = "exp-date";
     // Make "Present" bold in the date
-    const dateText = exper.date;
+    const dateText = exper.date || "";
     const dateParts = dateText.split(/(\bPresent\b)/i);
     const dateFragment = document.createDocumentFragment();
-    dateFragment.appendChild(document.createTextNode(', ('));
-    dateParts.forEach((part, index) => {
-      if (part.match(/^Present$/i)) {
-        const strong = document.createElement('strong');
+    dateParts.forEach((part) => {
+      if (/^Present$/i.test(part)) {
+        const strong = document.createElement("strong");
         strong.textContent = part;
         dateFragment.appendChild(strong);
       } else if (part) {
         dateFragment.appendChild(document.createTextNode(part));
       }
     });
-    dateFragment.appendChild(document.createTextNode(')'));
     expDura.appendChild(dateFragment);
 
     expItem.appendChild(expTitle);
@@ -268,7 +290,7 @@ const setCatagoryHeader = (title) => {
 
   const i = document.createElement("i");
   i.className = "fa fa-chevron-right";
-  i["area-hidden"] = "true";
+  i.setAttribute("aria-hidden", "true");
   catIndicator.appendChild(i);
   catHeader.appendChild(catIndicator);
 
