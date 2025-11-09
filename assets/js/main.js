@@ -204,17 +204,37 @@ const setExperience = (experiences) => {
     expItem.appendChild(expDura);
     expListItem.appendChild(expItem);
 
-    if (exper.details) {
+    if (exper.details && Array.isArray(exper.details)) {
       const expDetails = document.createElement("ul");
       expDetails.className = "expDet";
 
+      // Normalize details: split multiline strings into individual bullet points,
+      // remove any leading bullet characters and extra whitespace.
+      const lines = [];
       exper.details.forEach((dText) => {
+        String(dText)
+          .split(/\r?\n/)
+          .map((s) => s.trim())
+          .forEach((line) => {
+            if (!line) return;
+            // Remove leading custom bullets like •, -, * and any tabs/spaces
+            const clean = line
+              .replace(/^[\u2022•\-*]+\s*/, "")
+              .replace(/^\s+/, "")
+              .trim();
+            if (clean) lines.push(clean);
+          });
+      });
+
+      lines.forEach((text) => {
         const detItem = document.createElement("li");
-        detItem.innerHTML = dText;
+        detItem.textContent = text;
         expDetails.appendChild(detItem);
       });
 
-      expListItem.appendChild(expDetails);
+      if (expDetails.childElementCount > 0) {
+        expListItem.appendChild(expDetails);
+      }
     }
 
     expList.appendChild(expListItem);

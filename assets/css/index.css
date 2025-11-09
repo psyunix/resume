@@ -344,6 +344,8 @@ strong {
 
   .header-title {
     text-align: center;
+    letter-spacing: 0.15rem;
+    font-size: 2rem;
   }
 
   .header-title .profile-contact {
@@ -352,6 +354,7 @@ strong {
 
   .header-sub-title {
     text-align: center;
+    letter-spacing: 1px;
   }
 
   .link-title {
@@ -429,6 +432,7 @@ strong {
   .project-desc {
     color: #444;
     padding: 4px 0;
+    text-align: left;
   }
 
   .exp-org {
@@ -450,5 +454,22 @@ strong {
 
   .exp-item {
     margin-bottom: 0.8rem;
+  }
+
+  /* Disable justification on small screens to avoid large spacing gaps */
+  .cat-list,
+  .cat-list-item,
+  .expDet > li {
+    text-align: left;
+  }
+
+  /* Ensure long words/links wrap nicely */
+  .container,
+  .cat-list,
+  .cat-list-item,
+  .project-desc,
+  .expDet > li {
+    overflow-wrap: anywhere;
+    word-break: break-word;
   }
 }
