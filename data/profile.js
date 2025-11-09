@@ -73,8 +73,8 @@ const profileData = {
     },
   ],
   experiences: [
-      {
-  organization: "University of Hawai‘i at Mānoa | Information Technology Center | Honolulu, Hawaii, USA",
+    {
+  organization: "University of Hawai‘i | Information Technology Center | Honolulu, Hawaii, USA",
       title: "IT Systems Specialist",
       date: "2025 - Present",
 details: [
