@@ -1,8 +1,13 @@
+/**
+ * Profile data object used to populate the resume/portfolio website.
+ * Contains personal info, skills, experience, projects, education, and certifications.
+ */
 const profileData = {
   title: "Resume",
   name: "Milan Cvetic",
   sub_title: "Senior Information Technology Manager/Engineer",
   logoURL: "assets/images/dp.jpg",
+  // About section containing the professional summary and contact details
   about: {
     intro: `Insightful Information Technology Manager/Engineer with 20 years of IT leadership experience, including oversight of infrastructure, application support, and security services. Dedicated to customer satisfaction with focused delivery of technical solutions. Proven leader in directing operations, maintenance, and support of complex systems. Develops creative business solutions, leveraging diverse methodologies and delivering engineering solutions for leading organizations. Highly adept in requests for proposal development, technology needs assessments, and staff training. Recently focused on implementing AI-driven solutions across Azure and AWS platforms, including intelligent automation, document processing, and generative AI integrations.`,
     contact: {
@@ -11,6 +16,7 @@ const profileData = {
       address: "Honolulu, Hawaii, USA",
     },
   },
+  // Social media and external links
   links: [
     {
       title: "LinkedIn",
@@ -28,6 +34,7 @@ const profileData = {
       iconClass: "fa-brands fa-codepen",
     },
   ],
+  // Skills grouped by category
   skills: [
     {
       title: "Cloud Platforms",
@@ -72,18 +79,19 @@ const profileData = {
       value: "GAI tools: Claude, ChatGPT, Azure/AWS AI, Google Workspace, M365, Slack, ServiceNow, Jira, Scrum/Agile, GitHub, CI/CD, Terraform, Ansible, Grafana/Prometheus, HAProxy/NGINX, Tomcat",
     },
   ],
+  // Professional work experience history
   experiences: [
     {
-  organization: "University of Hawai‘i | Information Technology Center | Honolulu, Hawaii, USA",
+      organization: "University of Hawai‘i | Information Technology Center | Honolulu, Hawaii, USA",
       title: "IT Systems Specialist",
       date: "2025 - Present",
-details: [
+      details: [
         `Install, configure, and maintain Linux and Windows operating systems and vSphere hypervisor, vCenter management system in support of Information Technology Services projects`,
       ],
     },
 
     {
-  organization: "SAS Institute | Cary, North Carolina, USA (Honolulu office)",
+      organization: "SAS Institute | Cary, North Carolina, USA (Honolulu office)",
       title: "Sr Systems Architect - Risk Research and Quantitative Solutions ",
       date: "Jul 2022 - 2025",
       details: [
@@ -92,7 +100,7 @@ details: [
     },
 
     {
-  organization: "Kamakura Corporation | Honolulu, Hawaii, USA",
+      organization: "Kamakura Corporation | Honolulu, Hawaii, USA",
       title: "Director of Information Technology (CTO)",
       date: "Jun 2019 - Jul 2022",
       details: [
@@ -100,7 +108,7 @@ details: [
       ],
     },
     {
-  organization: "Superb Internet Corp | Honolulu, Hawaii, USA",
+      organization: "Superb Internet Corp | Honolulu, Hawaii, USA",
       title: "Senior System Engineer",
       date: "Oct 2016 - Jun 2021",
       details: [
@@ -116,7 +124,7 @@ details: [
       ],
     },
     {
-  organization: "Automobile Association of Serbia and AMS Insurance Corp | Belgrade, Serbia",
+      organization: "Automobile Association of Serbia and AMS Insurance Corp | Belgrade, Serbia",
       title: "Senior System Engineer",
       date: "Jan 2013 - Dec 2016",
       details: [
@@ -150,12 +158,13 @@ details: [
       ],
     },
   ],
+  // Personal or open source projects
   projects: [
     {
-  title: "Resume app",
+      title: "Resume app",
       duration: "Apr - May 2025",
       link: "https://github.com/psyunix/resume",
-  desc: `A resume web app built with Vercel CI/CD and GitHub. The app includes full history of positions and duties. Developed using <strong>HTML5</strong>, <strong>CSS3</strong> and <strong>JavaScript</strong>.`,
+      desc: `A resume web app built with Vercel CI/CD and GitHub. The app includes full history of positions and duties. Developed using <strong>HTML5</strong>, <strong>CSS3</strong> and <strong>JavaScript</strong>.`,
     },
 
     {
@@ -165,6 +174,7 @@ details: [
       desc: `The kube-3-kind project by psyunix is a configuration designed to deploy a multi-node Kubernetes cluster using kind (Kubernetes in Docker). This setup is particularly useful for local development, testing, and CI/CD pipelines, simulating a production-like environment.`,
     },
   ],
+  // Educational background
   education: [
     {
       alma: "ICT - College for Expert Studies in Information, (<a target='_blank' rel='noreferrer' href='https://en.ict.edu.rs/'>https://en.ict.edu.rs/</a>)",
@@ -179,11 +189,12 @@ details: [
       score: "87.80%",
     },
   ],
+  // Professional certifications
   certifications: [
     {
       desc: `<strong>AZ-104 Microsoft Azure Administrator</strong> by <strong>Udemy</strong> (<a target='_blank' rel='noreferrer' href='https://www.udemy.com/certificate/UC-d6b1b188-ea79-4eb8-bc42-9e3517196abc'>AZ 104</a>)`,
       date: "2022",
-    }, 
+    },
 
     {
       desc: `<strong>Red Hat Certified System Administrator (RHCSA) </strong> by <strong>Udemy</strong> (<a target='_blank' rel='noreferrer' href='https://github.com/psyunix/resume/blob/main/data/certs/RHCSA-milan_cvetic_udemy.pdf'>RHCSA</a>)`,
