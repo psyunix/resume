@@ -86,15 +86,14 @@ const profileData = {
       title: "IT Systems Specialist",
       date: "2025 - Present",
       details: [
-        `Install, configure, and maintain Linux and Windows operating systems and vSphere hypervisor, vCenter management system in support of Information Technology Services projects. • Serves as System Administrator to manage Linux and Windows servers for various UH Enterprise Systems applications.
-• Install, configure, and maintain Linux and Windows operating systems in support of Information Technology Services (ITS) projects.
-• Install, configure, and maintain vSphere hypervisor, vCenter management system, and server storage management software supporting the ITS virtualization infrastructure.
-• Install, configure, and maintain server and storage hardware supporting the ITS virtualization infrastructure.
-• Directly utilize the Enterprise Backup system to restore backups of Virtual Machines and files as needed.
-• Monitor the availability and performance of systems infrastructure, supporting assigned applications and taking appropriate action to service downtime, degradation, or interruption.
-• Develop, document, and implement standard operating procedures related to Linux and Windows systems management.
-• Develop and document scripting and applications to support automation enhancing and automating managing of assigned systems.
-• Works on call as Designated Responsible Individual (DRI) to respond to the ITS incident management system during service interruptions, degradation of service, and downtime for assigned systems, to ensure security and errata patches are applied as required by ITS policies.`,
+        `• Install, configure, and maintain Linux and Windows operating systems in support of Information Technology Services (ITS) projects.
+        • Install, configure, and maintain vSphere hypervisor, vCenter management system, and server storage management software supporting the ITS virtualization infrastructure.
+        • Install, configure, and maintain server and storage hardware supporting the ITS virtualization infrastructure.
+        •  Directly utilize the Enterprise Backup system to restore backups of Virtual Machines and files as needed.
+        • Monitor the availability and performance of systems infrastructure, supporting assigned applications and taking appropriate action to service downtime, degradation, or interruption.
+        • Develop, document, and implement standard operating procedures related to Linux and Windows systems management.
+        • Develop and document scripting and applications to support automation enhancing and automating managing of assigned systems.
+        • Works on call as Designated Responsible Individual (DRI) to respond to the ITS incident management system during service interruptions, degradation of service, and downtime for assigned systems, to ensure security and errata patches are applied as required by ITS policies.`,
       ],
     },
 
