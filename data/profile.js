@@ -187,13 +187,13 @@ const profileData = {
       alma: "ICT - College for Expert Studies in Information, (<a target='_blank' rel='noreferrer' href='https://en.ict.edu.rs/'>https://en.ict.edu.rs/</a>)",
       duration: "2009 - 2011",
       std: "Professional Master, Specialist - Expert Engineer of Network Technologies",
-      score: "93.00%",
+      score: "8.29",
     },
     {
       alma: "ITS - Information Technology School, (<a target='_blank' rel='noreferrer' href='https://eng.its.edu.rs/'>https://eng.its.edu.rs/</a>)",
       duration: "2006 - 2009",
       std: "Bachelor's degree, Engineer of Information Technologies",
-      score: "87.80%",
+      score: "7.68",
     },
   ],
   // Professional certifications
