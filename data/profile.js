@@ -3,7 +3,7 @@
  * Contains personal info, skills, experience, projects, education, and certifications.
  */
 const profileData = {
-  title: "Resume",
+  title: "IT Resume",
   name: "Milan Cvetic",
   sub_title: "Senior Information Technology Manager/Engineer",
   logoURL: "assets/images/dp.jpg",
