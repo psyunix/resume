@@ -1,0 +1,6 @@
+# Robots.txt for Milan Cvetic Resume Website
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://psyunix.com/sitemap.xml
