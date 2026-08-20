@@ -1,58 +1,81 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Milan Cvetic | Senior Systems Architect & IT Leader</title>
     <meta
       name="description"
-      content="Insightful Information Technology Manager/Engineer with 20 years of IT leadership experience, including oversight of infrastructure, application support, and security services. Dedicated to customer satisfaction with focused delivery of technical solutions. Proven leader in directing operations, maintenance, and support of complex systems. Develops creative business solutions, leveraging diverse methodologies and delivering engineering solutions for leading organizations. Highly adept in requests for proposal development, technology needs assessments, and staff training."
+      content="Milan Cvetic - Senior Information Technology Manager & Systems Architect with 20+ years of enterprise experience across Cloud, DevOps, VMware, Security, and Datacenter Operations."
     />
     <meta
       name="keywords"
-      content="Senior System Engineer, DevOps, Docker, github, Kubernets, Unix, Linux, test"
+      content="Milan Cvetic, Senior System Engineer, Systems Architect, DevOps, Cloud Architect, VMware, Kubernetes, Docker, Azure, AWS, Linux, Unix, Honolulu"
     />
     <meta name="author" content="Milan Cvetic" />
-    <meta
-      property="og:title"
-      content="Milan Cvetic | Senior System Engineer"
-    />
+
+    <!-- Open Graph / Social Media -->
+    <meta property="og:title" content="Milan Cvetic | Senior Systems Architect & IT Leader" />
     <meta
       property="og:description"
-      content="Insightful Information Technology Manager/Engineer with 20 years of IT leadership experience, including oversight of infrastructure, application support, and security services. Dedicated to customer satisfaction with focused delivery of technical solutions. Proven leader in directing operations, maintenance, and support of complex systems. Develops creative business solutions, leveraging diverse methodologies and delivering engineering solutions for leading organizations. Highly adept in requests for proposal development, technology needs assessments, and staff training."
+      content="Senior Information Technology Manager & Systems Architect with 20+ years of enterprise IT leadership, cloud automation, virtualization, and datacenter engineering."
     />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://psyunix.com" />
-    <meta
-      property="og:image"
-      content="https://github.com/psyunix/resume/blob/main/mcvetic.jpeg?raw=true"
-    />
+    <meta property="og:image" content="https://github.com/psyunix/resume/raw/main/mcvetic.jpeg" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta
-      name="twitter:title"
-      content="Milan Cvetic | Senior System Engineer"
-    />
+    <meta name="twitter:title" content="Milan Cvetic | Senior Systems Architect" />
     <meta
       name="twitter:description"
-      content="Milan Cvetic | Senior System Engineer."
+      content="Senior Systems Architect & IT Leader with 20+ years of enterprise experience."
     />
-    <meta
-      name="twitter:image"
-      content="https://github.com/psyunix/resume/blob/main/mcvetic.jpeg?raw=true"
-    />
-  <title>Resume | Milan Cvetic</title>
+    <meta name="twitter:image" content="https://github.com/psyunix/resume/raw/main/mcvetic.jpeg" />
+
+    <!-- Favicon -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💻</text></svg>" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,600&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap"
       rel="stylesheet"
     />
+
+    <!-- Font Awesome Icons -->
     <link
-      href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap"
       rel="stylesheet"
-    />
-    <link rel="stylesheet" type="text/css" href="assets/css/index.css" />
-    <script
-      src="https://kit.fontawesome.com/708e97025f.js"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
       crossorigin="anonymous"
-    ></script>
+      referrerpolicy="no-referrer"
+    />
+
+    <!-- Main Stylesheet -->
+    <link rel="stylesheet" type="text/css" href="assets/css/index.css" />
+
+    <!-- JSON-LD Schema -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Milan Cvetic",
+        "jobTitle": "Senior Information Technology Manager / Systems Architect",
+        "url": "https://psyunix.com",
+        "image": "https://github.com/psyunix/resume/raw/main/mcvetic.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Honolulu",
+          "addressRegion": "HI",
+          "addressCountry": "USA"
+        },
+        "sameAs": [
+          "https://www.linkedin.com/in/milancvetic/",
+          "https://github.com/psyunix"
+        ]
+      }
+    </script>
+
+    <!-- Scripts -->
     <script src="data/profile.js" defer></script>
     <script src="assets/js/main.js" defer></script>
     <!-- Vercel Analytics -->
@@ -60,121 +83,200 @@
   </head>
 
   <body>
-    <div class="container">
-      <section class="header info-row">
-        <div class="header-title" id="profileName">Your Name</div>
-        <div class="header-sub-title" id="profileSubTitle">
-          Software Engineer
+    <!-- Top Action & Navigation Bar -->
+    <nav class="top-nav" aria-label="Main Navigation">
+      <div class="nav-container">
+        <a href="#summary" class="nav-brand">
+          <span class="brand-dot"></span>
+          <span class="brand-name">Milan Cvetic</span>
+        </a>
+
+        <div class="nav-links">
+          <a href="#summary" class="nav-link">About</a>
+          <a href="#skills" class="nav-link">Skills</a>
+          <a href="#experience" class="nav-link">Experience</a>
+          <a href="#projects" class="nav-link">Projects</a>
+          <a href="#certifications" class="nav-link">Certifications</a>
+          <a href="#education" class="nav-link">Education</a>
         </div>
-        <div id="linksList" class="contact-section">
-          <div class="contact-item">
-            <span class="contact-logo">
-              <i class="fas fa-phone" aria-hidden="true"></i>
-            </span>
-            <a
-              class="contact-info"
-              id="contactPhone"
-              href="#"
-              rel="nofollow"
-            >
-              +91-xxxxxxxxx
-            </a>
+
+        <div class="nav-actions">
+          <button id="themeToggle" class="btn-icon" title="Toggle Light / Dark Mode" aria-label="Toggle Theme">
+            <i class="fa-solid fa-moon theme-icon" aria-hidden="true"></i>
+          </button>
+          <button id="printBtn" class="btn-pill btn-primary print-button" title="Print or Save as PDF" aria-label="Print or Save Resume as PDF">
+            <i class="fa-solid fa-file-arrow-down" aria-hidden="true"></i>
+            <span>Export PDF</span>
+          </button>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container main-content">
+      <!-- Hero / Profile Header Card -->
+      <header class="profile-card" id="profileHeader">
+        <div class="profile-avatar-wrapper">
+          <img
+            id="profileAvatar"
+            src="mcvetic.jpeg"
+            alt="Milan Cvetic Profile Photo"
+            class="profile-avatar"
+            onerror="this.style.display='none'"
+          />
+          <span class="status-indicator" title="Available for Opportunities"></span>
+        </div>
+
+        <div class="profile-details">
+          <div class="profile-title-group">
+            <h1 class="profile-name" id="profileName">Milan Cvetic</h1>
+            <div class="status-badge">
+              <span class="pulse-dot"></span>
+              <span id="profileStatus">Available for Opportunities</span>
+            </div>
           </div>
-          <div class="contact-item">
-            <span class="contact-logo">
-              <i class="fas fa-at" aria-hidden="true"></i>
+
+          <h2 class="profile-subtitle" id="profileSubTitle">
+            Senior Information Technology Manager / Systems Architect
+          </h2>
+
+          <div class="profile-meta">
+            <span class="meta-item">
+              <i class="fa-solid fa-location-dot" aria-hidden="true"></i>
+              <span id="profileLocation">Honolulu, Hawaii, USA</span>
             </span>
-            <a
-              class="contact-info"
-              id="contactEmail"
-              target="_blank"
-              href=""
-              rel="noopener noreferrer"
-            >
-              abc@xyz.com
-            </a>
+            <span class="meta-separator">•</span>
+            <span class="meta-item">
+              <i class="fa-solid fa-shield-halved" aria-hidden="true"></i>
+              <span>20+ Years Enterprise IT</span>
+            </span>
+          </div>
+
+          <!-- Contact & Action Badges -->
+          <div class="contact-actions" id="contactActions">
+            <div class="contact-pill-group">
+              <a id="contactEmail" href="#" class="contact-badge" target="_blank" rel="noopener noreferrer">
+                <i class="fa-solid fa-envelope" aria-hidden="true"></i>
+                <span class="contact-text">Loading email...</span>
+              </a>
+              <button class="copy-btn" id="copyEmailBtn" title="Copy email address" aria-label="Copy email">
+                <i class="fa-regular fa-copy" aria-hidden="true"></i>
+              </button>
+            </div>
+
+            <div class="contact-pill-group">
+              <a id="contactPhone" href="#" class="contact-badge">
+                <i class="fa-solid fa-phone" aria-hidden="true"></i>
+                <span class="contact-text">Loading phone...</span>
+              </a>
+              <button class="copy-btn" id="copyPhoneBtn" title="Copy phone number" aria-label="Copy phone">
+                <i class="fa-regular fa-copy" aria-hidden="true"></i>
+              </button>
+            </div>
+
+            <!-- Social Links Dynamically Injected -->
+            <div id="socialLinks" class="social-links-group"></div>
           </div>
         </div>
-      </section>
+      </header>
 
-      <section class="info-row">
-        <div class="cat-header">
-          <span class="cat-indicator">
-            <i class="fas fa-laptop-code" aria-hidden="true"></i>
-          </span>
-          <span class="cat-title">Professional Summary</span>
-        </div>
-        <div class="cat-list-body">
-          <div id="aboutIntro" class="cat-list"></div>
-        </div>
-      </section>
+      <!-- Key Metrics Bar -->
+      <section class="metrics-grid" id="metricsBar" aria-label="Career Highlights"></section>
 
-      <section class="info-row">
-        <div class="cat-header">
-          <span class="cat-indicator">
-            <i class="fas fa-code" aria-hidden="true"></i>
-          </span>
-          <span class="cat-title">Skills</span>
+      <!-- Search & Skill Filter Bar -->
+      <section class="filter-bar" id="filterBar" aria-label="Search and Filter Resume">
+        <div class="search-box">
+          <i class="fa-solid fa-magnifying-glass search-icon" aria-hidden="true"></i>
+          <input
+            type="text"
+            id="searchInput"
+            placeholder="Filter by skill, technology, or keyword (e.g. Kubernetes, Azure, VMware, CI/CD)..."
+            aria-label="Filter resume by skill or keyword"
+          />
+          <button id="clearSearchBtn" class="clear-search-btn" title="Clear filter" style="display: none;">
+            <i class="fa-solid fa-xmark"></i>
+          </button>
         </div>
-        <div class="cat-list-body">
-          <ul id="skillList" class="cat-list"></ul>
-        </div>
-      </section>
-
-      <!-- Work experience section -->
-      <section class="info-row">
-        <div class="cat-header">
-          <span class="cat-indicator">
-            <i class="fas fa-briefcase" aria-hidden="true"></i>
-          </span>
-          <span class="cat-title">Professional Experience</span>
-        </div>
-        <div class="cat-list-body">
-          <ul id="experienceList" class="cat-list"></ul>
+        <div id="activeFilterBadge" class="active-filter-badge" style="display: none;">
+          <span>Filtering: <strong id="filterKeyword"></strong></span>
+          <button id="resetFilterBtn" class="reset-filter-btn" title="Reset filter"><i class="fa-solid fa-xmark"></i></button>
         </div>
       </section>
 
-      <!-- Projects Listing section -->
-      <section class="info-row">
-        <div class="cat-header">
-          <span class="cat-indicator">
-            <i class="fas fa-code-branch" aria-hidden="true"></i>
-          </span>
-          <span class="cat-title">Personal Projects</span>
-        </div>
-        <div class="cat-list-body">
-          <ul id="projectList" class="cat-list"></ul>
-        </div>
-      </section>
+      <!-- Main Resume Content -->
+      <main>
+        <!-- Professional Summary -->
+        <section class="content-section" id="summary" aria-labelledby="summaryHeading">
+          <div class="section-header">
+            <div class="section-icon"><i class="fa-solid fa-user-tie" aria-hidden="true"></i></div>
+            <h2 class="section-title" id="summaryHeading">Professional Summary</h2>
+          </div>
+          <div class="section-body card">
+            <p class="summary-text" id="aboutIntro">Loading summary...</p>
+          </div>
+        </section>
 
-      <!-- Educaation listing section -->
-      <section class="info-row">
-        <div class="cat-header">
-          <span class="cat-indicator">
-            <i class="fas fa-graduation-cap" aria-hidden="true"></i>
-          </span>
-          <span class="cat-title">Education</span>
-        </div>
-        <div class="cat-list-body">
-          <ul id="educationList" class="cat-list"></ul>
-        </div>
-      </section>
+        <!-- Technical Skills -->
+        <section class="content-section" id="skills" aria-labelledby="skillsHeading">
+          <div class="section-header">
+            <div class="section-icon"><i class="fa-solid fa-layer-group" aria-hidden="true"></i></div>
+            <h2 class="section-title" id="skillsHeading">Technical Skills & Competencies</h2>
+            <span class="section-hint">Click any skill to filter relevant experience</span>
+          </div>
+          <div class="skills-grid" id="skillsGrid"></div>
+        </section>
 
-      <!-- Certifications listing section -->
-      <section class="info-row">
-        <div class="cat-header">
-          <span class="cat-indicator">
-            <i class="fas fa-certificate" aria-hidden="true"></i>
-          </span>
-          <span class="cat-title">Certifications</span>
-        </div>
-        <div class="cat-list-body">
-          <ul id="certList" class="cat-list"></ul>
-        </div>
-      </section>
+        <!-- Professional Experience (Timeline) -->
+        <section class="content-section" id="experience" aria-labelledby="experienceHeading">
+          <div class="section-header">
+            <div class="section-icon"><i class="fa-solid fa-briefcase" aria-hidden="true"></i></div>
+            <h2 class="section-title" id="experienceHeading">Professional Experience</h2>
+          </div>
+          <div class="timeline-container" id="experienceTimeline"></div>
+        </section>
 
-      <!-- Other contents section -->
-      <section class="footer"></section>
+        <!-- Projects -->
+        <section class="content-section" id="projects" aria-labelledby="projectsHeading">
+          <div class="section-header">
+            <div class="section-icon"><i class="fa-solid fa-diagram-project" aria-hidden="true"></i></div>
+            <h2 class="section-title" id="projectsHeading">Projects & Infrastructure</h2>
+          </div>
+          <div class="projects-grid" id="projectsGrid"></div>
+        </section>
+
+        <!-- Certifications -->
+        <section class="content-section" id="certifications" aria-labelledby="certificationsHeading">
+          <div class="section-header">
+            <div class="section-icon"><i class="fa-solid fa-certificate" aria-hidden="true"></i></div>
+            <h2 class="section-title" id="certificationsHeading">Certifications & Credentials</h2>
+          </div>
+          <div class="certs-grid" id="certsGrid"></div>
+        </section>
+
+        <!-- Education -->
+        <section class="content-section" id="education" aria-labelledby="educationHeading">
+          <div class="section-header">
+            <div class="section-icon"><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i></div>
+            <h2 class="section-title" id="educationHeading">Education</h2>
+          </div>
+          <div class="education-grid" id="educationGrid"></div>
+        </section>
+      </main>
+
+      <!-- Footer -->
+      <footer class="page-footer">
+        <div class="footer-content">
+          <p>© <span id="currentYear">2026</span> Milan Cvetic. Hosted with GitHub Pages & Vercel.</p>
+          <p class="footer-links">
+            <a href="#summary">Back to Top <i class="fa-solid fa-arrow-up"></i></a>
+          </p>
+        </div>
+      </footer>
+    </div>
+
+    <!-- Toast Notification -->
+    <div id="toast" class="toast" role="alert" aria-live="polite">
+      <i class="fa-solid fa-circle-check toast-icon"></i>
+      <span id="toastMessage">Copied to clipboard!</span>
     </div>
   </body>
 </html>
